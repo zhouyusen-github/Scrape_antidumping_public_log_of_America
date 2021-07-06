@@ -7,6 +7,24 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+import sys
+import datetime
+
+## close MEMUSAGE 关闭 MEMUSAGE 因为windows没有
+if sys.platform == "win32":
+    MEMUSAGE_ENABLED = False
+
+
+
+# 配置日志输出
+today = datetime.datetime.now()
+log_file_path = "log/scrapy_{}_{}_{}.log".format(today.year, today.month, today.day)
+
+# 日志输出
+LOG_LEVEL = 'DEBUG'
+LOG_FILE = log_file_path
+
+
 BOT_NAME = 'Scrape_antidumping_public_log_of_America'
 
 SPIDER_MODULES = ['Scrape_antidumping_public_log_of_America.spiders']
@@ -17,7 +35,7 @@ NEWSPIDER_MODULE = 'Scrape_antidumping_public_log_of_America.spiders'
 #USER_AGENT = 'Scrape_antidumping_public_log_of_America (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -65,6 +83,10 @@ ROBOTSTXT_OBEY = True
 #ITEM_PIPELINES = {
 #    'Scrape_antidumping_public_log_of_America.pipelines.ScrapeAntidumpingPublicLogOfAmericaPipeline': 300,
 #}
+
+ITEM_PIPELINES = {
+   'Scrape_antidumping_public_log_of_America.pipelines.MysqlPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

@@ -1,0 +1,598 @@
+﻿Orderdate,Continueddate,ITCcaseNo,DOCNo,ADCVD,ReviewSequenceGroupNo,ProductGroup,Product,Country,Column2,Column3,FedReg,Pubdate,Link,Column1,Column12,active
+2002/5/22,2006/10/19,A-928,A-122-838,A,105,AG,Softwood lumber,Canada,,,,,,,,0
+2002/10/29,2007/10/29,A-954,A-122-840,A,110,ISM,Carbon steel wire rod,Canada,,73 FR 44223, 7/30/2008,,,,,0
+2003/10/23,2006/2/16,A-1019,A-122-847,A,,AG,Hard red spring wheat,Canada,,,,,,,,0
+2009/5/29,2020/6/15,A-1151,A-122-853,A,164,CH,Citric acid and certain citrate,Canada,, 85 FR 37626, 6/24/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-23/pdf/2020-13269.pdf, ,,,0
+2016/5/6,,A-1270,A-122-855,C,213,PRSG,Polyethylene Terephthalate Resin,Canada,,,81 FR 27979,  5/6/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-05-06/pdf/2016-10762.pdf,,,1
+2018/1/3,,A-1342,A-122-857,A,240,AG,Softwood Lumber Products,Canada,,,83 FR 350,  1/3/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-03/pdf/2017-28484.pdf,,,1
+2019/4/23,,A-1401,A-122-863,A,249,ISP,Large Diameter Welded Pipe,Canada,,,84 FR 18775,  5/2/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-02/pdf/2019-08955.pdf,,,1
+2020/8/20,,A-1458,A-122-867,A,282,ME,Utility Scale Wind Towers,,Canada,,85 FR 52546, 8/26/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-26/pdf/2020-18792.pdf,,,1
+1995/8/11,2007/6/22,A-716,A-201-817,A,91,ISP,Oil country tubular goods,Mexico,,,,,,,,0
+1999/7/27,2005/8/4,A-802,A-201-822,A,25,ISM,Stainless steel sheet & strip,Mexico ,,76 FR 49450, 8/10/2011,,,,,0
+2000/8/11,2006/5/11,A-848,A-201-827,A,,ISP,"Large diameter carbon & alloy seamless standard, line, and pressure pipe",Mexico,,,,,,,,0
+2002/2/27,2007/2/27,A-920,A-201-828,A,99,ISP,Welded large diameter line pipe,Mexico,,,,,,,,0
+2002/10/29,2014/7/3,A-958,A-201-830,A,110,ISM,Carbon steel wire rod,Mexico,,,85 FR 52953, 8/27/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-27/pdf/2020-18900.pdf,,,1
+2004/1/28,2015/4/23,A-1027,A-201-831,A,125,ISO,Prestressed concrete steel wire strand,Mexico,,,80 FR 22708, 4/23/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-04-23/pdf/2015-09528.pdf,,,1
+2005/7/11,2010/7/11,A-1085,A-201-834,A,137,CH,Carboxymethylcellulose,Mexico,,76 FR 29194, 5/20/2011,,,,,0
+2008/8/5,2014/6/23,A-1120,A-201-836,A,146,ISP,Light-walled rectangular pipe and tube,Mexico,,,85 FR 47169,  8/4/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-04/pdf/2020-16871.pdf,,,1
+2010/9/20,2016/2/12,A-1167,A-201-837,A,176,PRSGC,Magnesia Carbon Bricks,Mexico,,,81 FR 7502, 2/12/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-02-12/pdf/2016-02994.pdf,,,1
+2010/11/22,2016/12/21,A-1175,A-201-838,A,180,MM,Seamless Refined Copper Pipe and Tube,Mexico,,,81 FR 93664,12/21/2016,https://www.govinfo.gov/content/pkg/FR-2016-12-21/pdf/2016-30653.pdf,,,1
+2013/2/15,2018/2/15,A-1199,A-201-842,A,193,MSC,Large Residential Washers,Korea,,84 FR 19763,  5/6/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-06/pdf/2019-09213.pdf,,,,0
+2014/6/24,2019/6/24,A-1207,A-201-843,A,196,ISO,Prestressed Concrete Steel Rail Tie Wire,Mexico,,84 FR 26816, 6/10/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-10/pdf/2019-12133.pdf,,,,0
+2014/11/6,,A-1227,A-201-844,A,200,ISM,Steel Concrete Reinforcing Bar,Mexico,,,79 FR 65925, 11/6/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-11-06/pdf/2014-26411.pdf,,,1
+2016/9/13,,A-1281,A-201-847,A,217,ISP,Heavy Walled Rectangular Welded Carbon Steel Pipes and Tubes,Mexico,,,81 FR 62865, 9/13/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-13/pdf/2016-22003.pdf,,,1
+2017/9/12,,A-1336,A-201-848,A,237,PRSG,Emulsion Styrene-Butadiene Rubber,Mexico,,,82 FR 42790, 9/12/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-09-12/pdf/2017-19287.pdf,,,1
+2002/10/29,2014/7/3,A-961,A-274-804,A,110,ISM,Carbon steel wire rod,Trinidad ,,,85 FR 52953, 8/27/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-27/pdf/2020-18900.pdf,,,1
+2018/7/25,,A-1375,A-301-803,A,266,CH,Citric Acid and Certain Citrate Salts,Columbia,,,83 FR 35214, 7/25/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-25/pdf/2018-15885.pdf,,,1
+2002/5/23,2019/6/12,A-931,A-307-820,A,106,MM,Silicomanganese,Venezuela,,,84 FR 27243, 6/12/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-12/pdf/2019-12394.pdf,,,1
+2005/2/1,2007/8/23,A-1065,A-331-802,A,133,AG,Frozen or canned warm-water shrimp and prawns,Ecuador,,72 FR 48257, 8/23/2007,,,,,0
+1998/12/2,2015/9/2,A-776,A-337-804,A,11,AG,Preserved mushrooms,Chile,,,80 FR 53104,  9/2/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-09-02/pdf/2015-21771.pdf,,,1
+2002/7/9,2007/7/20,A-948,A-337-806,A,109,AG,Individually quick frozen red raspberries,Chile,,,,,,,,0
+1994/1/28,2006/8/8,A-636,A-351-819,A,65,ISM,Stainless steel wire rod,Brazil,,,,,,,,0
+1994/12/22,2011/9/14,A-671,A-351-824,A,80,MM,Silicomanganese,Brazil,,77 FR 66798, 11/7/2012,,,,,0
+1995/2/21,2017/8/9,A-678,A-351-825,A,85,ISM,Stainless steel bar,Brazil,,83 FR 49910, 10/3/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-10-03/pdf/2018-21536.pdf,,,,0
+1995/8/3,2007/5/18,A-708,A-351-826,A,90,ISP,Seamless pipe,Brazil ,,,,,,,,0
+1999/7/6,2011/5/26,A-806,A-351-828,A,24,ISM,Hot-rolled carbon steel flat products,Brazil,,76 FR 36081, 6/21/2011,,,,,0
+2002/10/29,2014/7/3,A-953,A-351-832,A,110,ISM,Carbon steel wire rod,Brazil,,,85 FR 52953, 8/27/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-27/pdf/2020-18900.pdf,,,1
+2004/1/28,2015/4/23,A-1024,A-351-837,A,125,ISO,Prestressed concrete steel wire strand,Brazil,,,80 FR 22708, 4/23/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-04-23/pdf/2015-09528.pdf,,,1
+2005/2/1,2016/4/29,A-1063,A-351-838,A,134,AG,Frozen warm-water shrimp and prawns,Brazil ,,82 FR 25242,  6/1/2016,https://www.govinfo.gov/content/pkg/FR-2017-06-01/pdf/2017-11323.pdf,,,,0
+2006/3/9,2011/3/9,A-1089,A-351-840,A,139,AG,Certain orange juice ,Brazil,,77 FR 23659, 4/20/2012,,,,,0
+2008/11/10,2013/11/10,A-1131,A-351-841,A,155,PRSG,"Polyethylene terephthalate film, sheet, and strip",Brazil,,80 FR 6689,  2/6/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-02-06/pdf/2015-02456.pdf,,,,0
+2016/3/3,,A-1265,A-351-842,A,212,AG,Uncoated Paper,Brazil,,,81 FR 11174,  3/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-03/pdf/2016-04699.pdf,,,1
+2016/9/20,,A-1283,A-351-843,A,218,ISM,Cold-Rolled Steel Flat Products,Brazil,,,81 FR 64432, 9/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-20/pdf/2016-22613.pdf,,,1
+2016/10/3,,A-1292,A-351-845,A,219,ISM,Hot-rolled carbon steel flat products,Brazil,,,81 FR 67962, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23836.pdf,,,1
+2017/1/26,,A-1319,A-351-847,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate,Brazil,,,82 FR 8911,  2/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-02-01/pdf/2017-02204.pdf,,,1
+2017/9/12,,A-1334,A-351-849,A,237,PRSG,Emulsion Styrene-Butadiene Rubber,Brazil,,,82 FR 42790, 9/12/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-09-12/pdf/2017-19287.pdf,,,1
+1995/8/3,2007/5/18,A-707,A-357-809,A,90,ISP,Seamless pipe,Argentina,,,,,,,,0
+1995/8/11,2007/6/22,A-711,A-357-810,A,91,ISP,Oil country tubular goods,Argentina,,,,,,,,0
+2001/12/10,2010/12/10,A-892,A-357-812,A,100,AG,Honey,Argentina,,77 FR 77029,12/31/2012,,,,,0
+2001/9/19,2007/11/20,A-898,A-357-814,A,93,ISM,Hot-rolled carbon steel flat products,Argentina,,,,,,,,0
+2018/4/26,,A-1347,A-357-820,A,241,CH,Biodiesel,Argentina,,,83 FR 18278, 4/26/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-04-26/pdf/2018-08775.pdf,,,1
+1998/9/15,2007/5/4,A-774,A-401-806,A,10,ISM,Stainless steel wire rod,Sweden,,,,,,,,0
+2005/7/11,2010/7/11,A-1087,A-401-808,A,137,CH,Carboxymethylcellulose,Sweden,,76 FR 29194, 5/20/2011,,,,,0
+2014/12/3,,A-1242,A-401-809,A,202,ISM,Non-Oriented Electrical Steel,Sweden,,,79 FR 71741, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28405.pdf,,,1
+2005/7/11,2015/8/26,A-1084,A-405-803,A,137,CH,Carboxymethylcellulose,Finland,,80 FR 51782, 8/26/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-08-26/pdf/2015-21046.pdf,,,,0
+2016/9/20,,A-1290,A-412-824,A,218,ISM,Cold-Rolled Steel Flat Products,U.K.,,,81 FR 64432, 9/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-20/pdf/2016-22613.pdf,,,1
+2016/10/3,,A-1297,A-412-825,A,219,ISM,Hot-rolled carbon steel flat products,U.K.,,,81 FR 67962, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23836.pdf,,,1
+2018/5/21,,A-1358,A-412-826,A,243,ISM,Carbon and Alloy Steel Wire Rod ,United Kingdom,,,83 FR 23417 ,21-May-18,https://www.govinfo.gov/content/pkg/FR-2018-05-21/pdf/2018-10879.pdf,,,1
+2001/11/29,2007/5/4,A-903,A-421-807,A,93,ISM,Hot-rolled carbon steel flat products,Netherlands,,,,,,,,0
+2005/7/11,2014/7/1,A-1086,A-421-811,A,137,CH,Carboxymethylcellulose,Netherlands,,80 FR 62028,10/15/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-10-15/pdf/2015-26260.pdf,,,,0
+2016/10/3,,A-1295,A-421-813,A,219,ISM,Hot-rolled carbon steel flat products,Netherlands,,,81 FR 67962, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23836.pdf,,,1
+1999/5/21,2017/1/9,A-788,A-423-808,A,18,ISM,Stainless steel plate in coils,Belgium,,,82 FR 2322,  1/9/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-01-09/pdf/2017-00140.pdf,,,1
+2017/5/25,,A-1318,A-423-812,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Belguim,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2018/7/25,,A-1374,A-423-813,A,266,CH,Citric Acid and Certain Citrate Salts,Belgium,,,83 FR 35214, 7/25/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-25/pdf/2018-15885.pdf,,,1
+2020/3/17,,A-1435,A-423-814,A,270,CH,Acetone ,Belgium,,,85 FR 17866, 3/31/2020,https://www.govinfo.gov/content/pkg/FR-2020-03-31/pdf/2020-06639.pdf,,,1
+1994/1/28,2006/8/8,A-637,A-427-811,A,65,ISM,Stainless steel wire rod,France,,,,,,,,0
+2002/2/13,2019/3/15,A-909,A-427-818,A,102,MM,Low enriched uranium,France,,84 FR 9493, 3/15/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-15/pdf/2019-04882.pdf,,,,0
+2017/5/25,,A-1321,A-427-828,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,France,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2019/11/22,,A-1423,A-427-830,A,265,CH,Strontium Chromate,France,,,84 FR 65349 ,11/27/2019,https://www.govinfo.gov/content/pkg/FR-2019-11-27/pdf/2019-25776.pdf,,,1
+1995/8/3,2018/2/28,A-709,A-428-820,A,90,ISP,Seamless pipe (small diameter),Germany,,,83 FR 8651, 2/28/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-02-28/pdf/2018-04172.pdf,,,1
+1999/7/27,2005/8/4,A-798,A-428-825,A,25,ISM,Stainless steel sheet & strip,Germany,,76 FR 49450, 8/10/2011,,,,,0
+2008/11/24,2013/11/24,A-1127,A-428-840,A,156,MSC,Lightweight thermal paper,Germany,,80 FR 5083, 1/30/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-01-30/pdf/2015-01794.pdf,,,,0
+2014/12/3,,A-1239,A-428-843,A,202,ISM,Non-Oriented Electrical Steel,Germany,,,79 FR 71741, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28405.pdf,,,1
+2017/5/25,,A-1322,A-428-844,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Germany,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2018/6/11,,A-1363,A-428-845,A,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,Germany,,,83 FR 26962, 6/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-11/pdf/2018-12593.pdf,,,1
+2019/12/11,2020/6/9,A-1426,A-428-846,A,268,ISO,Refillable Stainless Steel Kegs,Germany,,85 FR 35264,  6/9/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-09/pdf/2020-12445.pdf,,,,0
+2017/5/25,,A-1317,A-433-812,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Austria,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2019/11/21,,A-1422,A-433-813,A,265,CH,Strontium Chromate,Austria,,,84 FR 65349 ,11/27/2019,https://www.govinfo.gov/content/pkg/FR-2019-11-27/pdf/2019-25776.pdf,,,1
+2002/11/8,2008/11/8,A-984,A-437-804,A,111,CH,Sulfanilic acid,Hungary,,73 FR 7527,  2/8/2008,,,,,0
+2018/6/11,,A-1367,A-441-801,A,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,Switzerland,,,83 FR 26962, 6/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-11/pdf/2018-12593.pdf,,,1
+2001/9/7,2018/12/17,A-878,A-449-804,A,92,ISM,Steel concrete reinforcing bar,Latvia,,,83 FR 64530,12/17/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-17/pdf/2018-27239.pdf,,,1
+2001/9/7,2018/12/17,A-880,A-455-803,A,92,ISM,Steel concrete reinforcing bar,Poland,,,83 FR 64530,12/17/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-17/pdf/2018-27239.pdf,,,1
+2017/9/12,,A-1337,A-455-805,A,237,PRSG,Emulsion Styrene-Butadiene Rubber,Poland,,,82 FR 42790, 9/12/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-09-12/pdf/2017-19287.pdf,,,1
+1995/3/2,2017/8/9,A-682,A-469-805,A,85,ISM,Stainless steel bar,Spain,,83 FR 49910, 10/3/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-10-03/pdf/2018-21536.pdf,,,,0
+1998/9/15,2015/6/17,A-773,A-469-807,A,10,ISM,Stainless steel wire rod,Spain,,81 FR 54043, 8/15/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-08-15/pdf/2016-19256.pdf,,,,0
+2001/5/18,2006/6/15,A-890,A-469-810,A,,ISM,Stainless steel angle,Spain,,,,,,,,0
+2005/6/24,2016/11/29,A-1083,A-469-814,A,136,CH,Chlorinated Isocyanurates,Spain,,,81 FR 85927,11/29/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-11-29/pdf/2016-28702.pdf,,,1
+2017/6/14,,A-1333,A-469-815,A,233,ISO,Finished Carbon Steel Flanges,Spain,,,82 FR 27229, 6/14/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-06-14/pdf/2017-12404.pdf,,,1
+2018/5/21,,A-1354,A-469-816,A,243,ISM,Carbon and Alloy Steel Wire Rod ,Spain,,,83 FR 23417 ,21-May-18,https://www.govinfo.gov/content/pkg/FR-2018-05-21/pdf/2018-10879.pdf,,,1
+2018/8/1,,A-1377,A-469-817,A,273,AG,Ripe Olives,Spain,,,83 FR 37465,  8/1/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-01/pdf/2018-16450.pdf,,,1
+2019/12/16,,A-1440,A-469-819,A,270,CH,Acetone ,Spain ,,,84 FR 70146 ,12/20/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-20/pdf/2019-27533.pdf,,,1
+2002/11/8,2008/11/8,A-985,A-471-806,A,111,CH,Sulfanilic acid,Portugal,,73 FR 7527,  2/8/2008,,,,,0
+2016/3/3,,A-1268,A-471-807,A,212,AG,Uncoated Paper,Portugal,,,81 FR 11174,  3/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-03/pdf/2016-04699.pdf,,,1
+1994/8/12,2006/3/28,A-659,A-475-811,A,,ISM,Grain-oriented electrical steel,Italy,,,,,,,,0
+1995/8/11,2007/6/22,A-713,A-475-816,A,91,ISP,Oil country tubular goods,Italy,,,,,,,,0
+1996/7/24,2019/4/17,A-734,A-475-818,A,97,AG,Pasta,Italy,,,84 FR 16002, 4/17/2019,https://www.govinfo.gov/content/pkg/FR-2019-04-17/pdf/2019-07807.pdf,,,1
+1998/9/15,2015/6/17,A-770,A-475-820,A,10,ISM,Stainless steel wire rod,Italy,,81 FR 54043, 8/15/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-08-15/pdf/2016-19256.pdf,,,,0
+1999/5/21,2011/7/18,A-790,A-475-822,A,18,ISM,Stainless steel plate in coils,Italy,,76 FR 54207, 8/31/2011,,,,,0
+1999/7/27,2005/8/4,A-799,A-475-824,A,25,ISM,Stainless steel sheet & strip,Italy,,76 FR 49450, 8/10/2011,,,,,0
+2000/2/10,2012/1/4,A-819,A-475-826,A,40,ISM,Carbon steel plate,Italy,,77 FR 263,  1/4/2012,,,,,0
+2001/2/23,2017/12/29,A-865,A-475-828,A,82,ISO,Stainless steel butt-weld pipe fittings,Italy,,,82 FR 61751,12/29/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-12-29/pdf/2017-28196.pdf,,,1
+2002/3/7,2007/3/7,A-915,A-475-829,A,103,ISM,Stainless steel bar,Italy,,73 FR 7258,  2/7/2008,,,,,0
+2016/7/25,,A-1276,A-475-832,A,215,ISM,Corrosion-Resistant Steel Products,Italy,,,81 FR 48390, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17557.pdf,,,1
+2017/5/25,,A-1323,A-475-834,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Italy,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2017/8/24,,A-1332,A-475-835,A,236,ISO,Finished Carbon Steel Flanges,Italy,,,82 FR 40136, 8/24/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-08-24/pdf/2017-18056.pdf,,,1
+2018/5/21,,A-1350,A-475-836,A,243,ISM,Carbon and Alloy Steel Wire Rod ,Italy,,,83 FR 23417 ,21-May-18,https://www.govinfo.gov/content/pkg/FR-2018-05-21/pdf/2018-10879.pdf,,,1
+2018/6/11,,A-1365,A-475-838,A,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,Italy,,,83 FR 26962, 6/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-11/pdf/2018-12593.pdf,,,1
+2018/11/26,,A-1394,A-475-839,A,253,ISO,Forged Steel Fittings,Italy,,,83 FR 60397,11/26/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-11-26/pdf/2018-25703.pdf,,,1
+2019/4/23,,A-1403,A-484-803,A,249,ISP,Large Diameter Welded Pipe,Greece,,,84 FR 18769,  5/2/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-02/pdf/2019-08954.pdf,,,1
+2000/8/10,2017/11/13,A-849,A-485-805,A,60,ISP,Small diameter seamless pipe,Romania,,,82 FR 52275,11/13/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-11-13/pdf/2017-24515.pdf,,,1
+2001/11/29,2007/11/20,A-904,A-485-806,A,93,ISM,Hot-rolled carbon steel flat products,Romania,,,,,,,,0
+1996/7/24,2019/4/17,A-735,A-489-805,A,97,AG,Pasta,Turkey,,,84 FR 16002, 4/17/2019,https://www.govinfo.gov/content/pkg/FR-2019-04-17/pdf/2019-07807.pdf,,,1
+1997/4/17,2003/3/26,A-745,A-489-807,A,3,ISM,Steel concrete reinforcing bar,Turkey,,74 FR 266,  1/5/2009,,,,,0
+2008/5/30,2014/6/23,A-1121,A-489-815,A,146,ISP,Light–walled rectangular pipe and tube,Turkey,,,85 FR 47169,  8/4/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-04/pdf/2020-16871.pdf,,,1
+2014/9/10,,A-1221,A-489-816,A,199,ISP,Oil Country Tubular Goods,Turkey,,,85 FR 48665, 8/12/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-12/pdf/2020-17632.pdf,,,1
+2015/12/1,,A-1261,A-489-822,A,209,ISP,Welded Line Pipe,Turkey,,,80 FR 75056, 12/1/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-12-01/pdf/2015-30506.pdf,,,1
+2016/9/13,,A-1282,A-489-824,A,217,ISP,Heavy Walled Rectangular Welded Carbon Steel Pipes and Tubes,Turkey,,,81 FR 62865, 9/13/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-13/pdf/2016-22003.pdf,,,1
+2016/10/3,,A-1296,A-489-826,A,219,ISM,Hot-rolled carbon steel flat products,Turkey,,,81 FR 67962, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23836.pdf,,,1
+2017/1/26,,A-1328,A-489-828,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate,Turkey,,,82 FR 8911,  2/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-02-01/pdf/2017-02204.pdf,,,1
+2017/7/14,,A-1340,A-489-829,A,234,ISM,Steel Concrete Reinforcing Bar,Turkey,,,82 FR 32532, 7/14/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-07-14/pdf/2017-14802.pdf,,,1
+2018/5/21,,A-1355,A-489-831,A,243,ISM,Carbon and Alloy Steel Wire Rod ,Turkey,,,83 FR 23417 ,21-May-18,https://www.govinfo.gov/content/pkg/FR-2018-05-21/pdf/2018-10879.pdf,,,1
+2019/4/23,,A-1406,A-489-833,A,249,ISP,Large Diameter Welded Pipe,Turkey,,,84 FR 18799,  5/2/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-02/pdf/2019-08953.pdf,,,1
+2020/6/15,,A-1451,A-489-837,A,280,PRSG,Quartz Surface Products,Turkey,,,85 FR 37422, 6/22/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-22/pdf/2020-13401.pdf,,,1
+2008/11/10,2015/2/6,A-1134,A-520-803,A,155,PRSG,"Polyethylene terephthalate film, sheet, and strip",United Arab Emirates,,,85 FR 55412,  9/8/2020,http://www.gpo.gov/fdsys/pkg/FR-2015-02-06/pdf/2015-02456.pdf,,,1
+2012/5/10,2017/10/19,A-1185,A-520-804,A,186,ISO,Steel Nails,United Arab Emirates,,,82 FR 48681,10/19/2017,https://www.govinfo.gov/content/pkg/FR-2017-10-19/pdf/2017-22684.pdf,,,1
+2016/12/19,,A-1302,A-520-807,A,221,ISP,Circular Welded Carbon-Quality Steel Pipe,United Arab Emirates,,,81 FR 91906,12/19/2016,https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30535.pdf,,,1
+2018/1/24,,A-1357,A-520-808,A,243,ISM,Carbon and Alloy Steel Wire Rod,United Arab Emirates,,,83 FR 3297, 1/24/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-24/pdf/2018-01254.pdf,,,1
+2015/7/13,,A-1254,A-523-808,A,206,ISO,Steel Nails,Oman,,,80 FR 39994, 7/13/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-07-13/pdf/2015-17239.pdf,,,1
+2016/12/19,,A-1299,A-523-812,A,221,ISP,Circular Welded Carbon-Quality Steel Pipe,Oman,,,81 FR 91906,12/19/2016,https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30535.pdf,,,1
+2020/9/3,,A-1457,A-523-813,,283,CH,Polyethylene Terephthalate Sheet ,Oman,,,85 FR 55824, 9/10/2020,https://www.govinfo.gov/content/pkg/FR-2020-09-10/pdf/2020-20011.pdf,,,1
+1994/2/9,2011/1/23,A-639,A-533-809,A,70,ISO,Forged stainless steel flanges,India,,76 FR 5331, 1/31/2011,,,,,0
+1995/2/21,2017/8/9,A-679,A-533-810,A,85,ISM,Stainless steel bar,India,,,83 FR 49910,  8/9/2012,https://www.gpo.gov/fdsys/pkg/FR-2018-10-03/pdf/2018-21536.pdf,,,1
+1999/2/19,2015/9/2,A-778,A-533-813,A,11,AG,Preserved mushrooms,India,,,80 FR 53104,  9/2/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-09-02/pdf/2015-21771.pdf,,,1
+2000/2/10,2018/3/12,A-817,A-533-817,A,40,ISM,Carbon steel plate,India,,,83 FR 10672, 3/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-12/pdf/2018-04846.pdf,,,1
+2001/12/3,2014/2/7,A-900,A-533-820,A,93,ISM,Hot-rolled carbon steel flat products,India,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2002/5/23,2019/6/12,A-929,A-533-823,A,106,MM,Silicomanganese,India,,,84 FR 27243, 6/12/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-12/pdf/2019-12394.pdf,,,1
+2002/7/1,2014/8/6,A-933,A-533-824,A,108,CH,Polyethylene terephthalate (PET) film,India,,,79 FR 45762,  8/6/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-08-06/pdf/2014-18599.pdf,,,1
+2004/1/28,2015/4/23,A-1025,A-533-828,A,125,ISO,Prestressed concrete steel wire strand,India,,,80 FR 22708, 4/23/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-04-23/pdf/2015-09528.pdf,,,1
+2004/12/29,2015/11/17,A-1061,A-533-838,A,131,CH,Carbazole Violet Pigment 23,India,,,80 FR 71773,11/17/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-11-17/pdf/2015-29361.pdf,,,1
+2005/2/1,2017/6/1,A-1066,A-533-840,A,134,AG,Frozen warm-water shrimp and prawns,India,,,82 FR 25242,  6/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-06-01/pdf/2017-11323.pdf,,,1
+2006/9/28,2018/3/6,A-1096,A-533-843,A,141,AG,Lined paper,India,,,83 FR 9479,  3/6/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-06/pdf/2018-04501.pdf,,,1
+2009/4/28,2014/6/2,A-1147,A-533-847,A,162,CH,HEDP,India,,79 FR 31301,  6/2/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-06-02/pdf/2014-12728.pdf,,,,0
+2009/12/11,2015/4/30,A-1155,A-533-848,A,167,CH,Commodity Matchbooks,India,,,84 FR 24232, 4/30/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-04-30/pdf/2015-10133.pdf,,,1
+2014/9/10,,A-1215,A-533-857,A,199,ISP,Oil Country Tubular Goods,India,,,85 FR 48665, 8/12/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-12/pdf/2020-17632.pdf,,,1
+2016/7/25,,A-1275,A-533-863,A,215,ISM,Corrosion-Resistant Steel Products,India,,,81 FR 48390, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17557.pdf,,,1
+2016/9/20,,A-1285,A-533-865,A,218,ISM,Cold-Rolled Steel Flat Products,India,,,81 FR 64432, 9/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-20/pdf/2016-22613.pdf,,,1
+2016/11/17,,A-1298,A-533-867,A,220,ISP,Welded Stainless Pressure Pipe,India,,,81 FR 81602,11/17/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-11-17/pdf/2016-27846.pdf,,,1
+2017/3/6,,A-1308,A-533-869,A,225,PSRG,New Pneumatic Off-the-Road Tires,India,,,82 FR 12553,  3/6/2017,https://www.govinfo.gov/content/pkg/FR-2017-03-06/pdf/2017-04432.pdf,,,1
+2017/8/24,,A-1331,A-533-871,A,236,ISO,Finished Carbon Steel Flanges,India,,,82 FR 40136, 8/24/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-08-24/pdf/2017-18056.pdf,,,1
+2018/6/11,,A-1364,A-533-873,A,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,India,,,83 FR 26962, 6/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-11/pdf/2018-12593.pdf,,,1
+2018/7/20,,A-1370,A-533-875,A,244,TX,Fine Denier Polyester Staple Fiber,India,,,83 FR 34545, 7/20/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-20/pdf/2018-15567.pdf,,,1
+2018/10/9,,A-1384,A-533-877,A,250,ISO,Stainless Steel Flanges,India,,,83 FR 50639, 10/9/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-10-09/pdf/2018-21851.pdf,,,1
+2019/2/28,,A-1404,A-533-881,A,249,ISP,Large Diameter Welded Pipe,India,,,84 FR 8079,  3/6/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-06/pdf/2019-04048.pdf,,,1
+2019/6/18,,A–1414,A-533-883,A,256,CH,Glycine,India ,,,84 FR 29170, 6/21/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-21/pdf/2019-13362.pdf,,,1
+2020/2/20,,A-1430,A-533-885,A,272,TX,Polyester Textured Yarn,India ,,,85 FR 1298,  1/6/2020,https://www.govinfo.gov/content/pkg/FR-2020-01-10/pdf/2020-00247.pdf,,,1
+2020/4/3,,A-1442,A-533-887,A,274,ISO,Carbon and Alloy Steel Threaded Rod,India,,,85 FR 19925,  4/9/2020,https://www.govinfo.gov/content/pkg/FR-2020-04-09/pdf/2020-07481.pdf,,,1
+2020/6/15,,A-1450,A-533-889,A,280,PRSG,Quartz Surface Products,India,,,85 FR 37422, 6/22/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-22/pdf/2020-13401.pdf,,,1
+2016/12/19,,A-1300,A-535-903,A,221,ISP,Circular Welded Carbon-Quality Steel Pipe,Pakistan,,,81 FR 91906,12/19/2016,https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30535.pdf,,,1
+1995/7/25,2007/3/5,A-705,A-549-812,A,86,CH,Furfuryl alcohol,Thailand,,,,,,,,0
+1995/7/18,2008/4/21,A-706,A-549-813,A,88,AG,Canned pineapple,Thailand,,,,,,,,0
+2001/11/29,2014/2/7,A-907,A-549-817,A,93,ISM,Hot-rolled carbon steel flat products,Thailand,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2004/1/28,2015/4/23,A-1028,A-549-820,A,125,ISO,Prestressed concrete steel wire strand,Thailand,,,80 FR 22708, 4/23/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-04-23/pdf/2015-09528.pdf,,,1
+2004/8/9,2016/5/6,A-1045,A-549-821,A,129,PRSG,Polyethylene retail carrier bags,Thailand,,,81 FR 27087,  5/5/2016,,,,1
+2005/2/1,2017/6/1,A-1067,A-549-822,A,134,AG,Frozen warm-water shrimp and prawns,Thailand,,,82 FR 25242,  6/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-06-01/pdf/2017-11323.pdf,,,1
+2014/7/21,,A-1211,A-549-830,A,198,ISP,Welded Stainless Pressure Pipe,Thailand,,,79 FR 42289,11/25/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-03/pdf/2019-26038.pdf,,,1
+2018/7/25,,A-1376,A-549-833,A,266,CH,Citric Acid and Certain Citrate Salts,Thailand,,,83 FR 35214, 7/25/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-25/pdf/2018-15885.pdf,,,1
+2019/4/22,,A-1410,A-549-835,A,264,ISO,Rubber Bands,Thailand,,,84 FR 17779, 4/26/2019,https://www.govinfo.gov/content/pkg/FR-2019-04-26/pdf/2019-08450.pdf,,,1
+2019/10/10,,A-1415,A-549-837,A,256,CH,Glycine,Thailand ,,,84 FR 55912,10/18/2019,https://www.govinfo.gov/content/pkg/FR-2019-10-18/pdf/2019-22764.pdf,,,1
+2019/8/7,,A-1444,A-549-839,A,260,ISO,Steel Propane Cylinders,Thailand ,,,84 FR 41703 , 8/15/2019,https://www.govinfo.gov/content/pkg/FR-2019-08-15/pdf/2019-17312.pdf,,,1
+2019/12/6,,A-1444,A-549-840,A,274,ISO,Carbon and Alloy Steel Threaded Rod,Thailand ,,,84 FR 68108,12/13/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-13/pdf/2019-27044.pdf,,,1
+2005/2/1,2017/6/1,A-1068,A-552-802,A,134,AG,Frozen warm-water shrimp and prawns,Vietnam,,,82 FR 25242,  6/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-06-01/pdf/2017-11323.pdf,,,1
+2008/12/11,2014/4/23,A-1142,A-552-803,A,157,MSC,Uncovered innerspring units,Vietnam,,,79 FR 22624, 4/23/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-04-23/pdf/2014-09275.pdf,,,1
+2013/2/5,2018/5/31,A-1198,A-552-812,A,191,ISO,Steel Wire Garment Hangers,Vietnam,,,83 FR 24972, 5/31/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-05-31/pdf/2018-11541.pdf,,,1
+2013/2/15,2019/5/17,A-1196,A-552-814,A,192,ISO,Utility Scale Wind Towers,Vietnam,,,84 FR 22442, 5/17/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-17/pdf/2019-10270.pdf,,,1
+2014/7/21,,A-1212,A-552-816,A,198,ISP,Welded Stainless Pressure Pipe,Vietnam,,,79 FR 42289,11/25/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-03/pdf/2019-26038.pdf,,,1
+2015/7/13,,A-1257,A-552-818,A,206,ISO,Steel Nails,Vietnam,,,80 FR 39994, 7/13/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-07-13/pdf/2015-17239.pdf,,,1
+2018/6/4,,A-1361,A-552-821,A,249,MSC,Tool Chests and Cabinets,Vietnam,,,83 FR 25645,  6/4/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-04/pdf/2018-11905.pdf,,,1
+2019/5/28,,A-1411,A-552-823,A,276,TX,Laminated Woven Sacks,Vietnam,,,84 FR 25753,  6/4/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-04/pdf/2019-11579.pdf,,,1
+2020/8/20,,A-1461,A-552-825,A,282,ME,Utility Scale Wind Towers,,Vietnam,,85 FR 52546, 8/26/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-26/pdf/2020-18792.pdf,,,1
+2014/9/10,,A-1223,A-553-817,A,199,ISP,Oil Country Tubular Goods,Vietnam,,,85 FR 48665, 8/12/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-12/pdf/2020-17632.pdf,,,1
+2001/2/23,2017/12/29,A-866,A-557-809,A,82,ISO,Stainless steel butt-weld pipe fittings,Malaysia,,,82 FR 61751,12/29/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-12-29/pdf/2017-28196.pdf,,,1
+2004/8/9,2016/5/6,A-1044,A-557-813,A,129,PRSG,Polyethylene retail carrier bags,Malaysia,,,81 FR 27087,  5/5/2016,,,,1
+2014/7/21,,A-1210,A-557-815,A,198,ISP,Welded Stainless Pressure Pipe,Malaysia,,,79 FR 42289,11/25/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-03/pdf/2019-26038.pdf,,,1
+2015/7/13,,A-1253,A-557-816,A,206,ISO,Steel Nails,Malaysia,,,80 FR 39994, 7/13/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-07-13/pdf/2015-17239.pdf,,,1
+2019/12/16,,A-1438,A-559-808,A,270,CH,Acetone ,Singapore,,,84 FR 70146 ,12/20/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-20/pdf/2019-27533.pdf,,,1
+1999/2/19,2015/9/2,A-779,A-560-802,A,11,AG,Preserved mushrooms,Indonesia,,,80 FR 53104,  9/2/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-09-02/pdf/2015-21771.pdf,,,1
+2000/2/10,2018/3/12,A-818,A-560-805,A,40,ISM,Carbon steel plate,Indonesia,,,83 FR 10672, 3/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-12/pdf/2018-04846.pdf,,,1
+2001/9/7,2018/12/17,A-875,A-560-811,A,92,ISM,Steel concrete reinforcing bar,Indonesia,,,83 FR 64530,12/17/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-17/pdf/2018-27239.pdf,,,1
+2001/12/3,2014/2/7,A-901,A-560-812,A,93,ISM,Hot-rolled carbon steel flat products,Indonesia,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2002/10/29,2014/7/3,A-957,A-560-815,A,110,ISM,Carbon steel wire rod,Indonesia,,,85 FR 52953, 8/27/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-27/pdf/2020-18900.pdf,,,1
+2006/9/28,2011/9/28,A-1097,A-560-818,A,141,MSC,Certain lined paper,Indonesia,,77 FR 53174, 8/31/2012,,,,,0
+2010/5/4,2016/5/6,A-1156,A-560-822,A,169,PRSG,Polyethylene Retail Carrier Bags,Indonesia,,,81 FR 27087,  5/5/2016,https://www.govinfo.gov/content/pkg/FR-2016-05-05/pdf/2016-10625.pdf,,,1
+2010/11/17,2017/1/7,A-1170,A-560-823,A,179,AG,Coated Paper Suitable for High-Quality Print Graphics Using Sheet-Fed Presses,Indonesia,,,82 FR 1692,  1/6/2017,https://www.govinfo.gov/content/pkg/FR-2017-01-06/pdf/2017-00029.pdf,,,1
+2014/11/26,,A-1230,A-560-826,A,202,CH,Monosodium Glutamate,Indonesia,,,79 FR 70505,11/26/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-11-26/pdf/2014-28053.pdf,,,1
+2016/3/3,,A-1267,A-560-828,A,212,AG,Uncoated Paper,Indonesia,,,81 FR 11174,  3/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-03/pdf/2016-04699.pdf,,,1
+2018/4/26,,A-1348,A-560-830,A,241,CH,Biodiesel,Indonesia,,,83 FR 18278, 4/26/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-04-26/pdf/2018-08775.pdf,,,1
+2020/8/20,,A-1459,A-560-833,A,282,ME,Utility Scale Wind Towers,,Indonesia,,85 FR 52546, 8/26/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-26/pdf/2020-18792.pdf,,,1
+2001/2/23,2017/12/29,A-867,A-565-801,A,82,ISO,Stainless steel butt-weld pipe fittings,Philippines,,,82 FR 61751,12/29/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-12-29/pdf/2017-28196.pdf,,,1
+2015/1/30,,A-1245,A-570-008,A,204,CH,Calcium Hypochlorite,China,,,85 FR 39522,  7/1/2020,https://www.govinfo.gov/content/pkg/FR-2020-07-01/pdf/2020-14194.pdf,,,1
+2015/2/18,,A-1246,A-570-010,A,205,ME,Crystalline Silicon Photovoltaic Products,China,,,85 FR 56215, 9/11/2020,http://www.gpo.gov/fdsys/pkg/FR-2015-02-18/pdf/2015-03183.pdf,,,1
+2015/1/8,,A-1248,A-570-012,A,203,ISM,Carbon and Certain Alloy Steel Wire,China,,,80 FR 1015,  1/8/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-01-08/pdf/2015-00096.pdf,,,1
+2015/8/10,,A-1258,A-570-016,A,207,PRSG,Passenger Vehicle and Light Truck Tires,China,,,80 FR 47902, 8/10/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-08-10/pdf/2015-19615.pdf,,,1
+2015/10/21,,A-1259,A-570-018,A,208,MSC,Boltless Steel Shelving Units Prepackaged for Sale,China,,,80 FR 63741,10/21/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-10-21/pdf/2015-26765.pdf,,,1
+2015/12/28,,A-1262,A-570-020,A,210,CH,Melamine,China,,,80 FR 80751,12/28/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-12-28/pdf/2015-32632.pdf,,,1
+2016/3/3,,A-1266,A-570-022,A,212,AG,Uncoated Paper,China,,,81 FR 11174,  3/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-03/pdf/2016-04699.pdf,,,1
+2016/5/6,,A-1273,A-570-024,C,213,PRSG,Polyethylene Terephthalate Resin,Oman,,,81 FR 27979,  5/6/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-05-06/pdf/2016-10762.pdf,,,1
+2016/7/25,,A-1274,A-570-026,A,215,ISM,Corrosion-Resistant Steel Products,China,,,81 FR 48390, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17557.pdf,,,1
+2016/8/19,,A-1279,A-570-028,A,216,CH,Hydrofluorocarbon Blends,China,,,81 FR 55436, 8/19/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-08-19/pdf/2016-19873.pdf,,,1
+2016/7/14,,A-1284,A-570-029,A,214,ISM,Cold-Rolled Steel Flat Products,China,,,81 FR 45956, 7/14/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-14/pdf/2016-16798.pdf,,,1
+2017/2/6,,A-1306,A-570-033,A,223,ME,Large Residential Washers,China,,,82 FR 9371,  2/6/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-02-06/pdf/2017-02469.pdf,,,1
+2017/3/3,,A-1309,A-570-036,A,224,CH,Biaxial Integral Geogrid Products,China,,,82 FR 12440,  3/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-03/pdf/2017-04131.pdf,,,1
+2017/3/17,,A-1310,A-570-038,A,227,PRSGC,Amorphous Silica Fabric,China,,,82 FR 14314, 3/17/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-17/pdf/2017-05431.pdf,,,1
+2019/2/12,,A-1311,A-570-040,A,258,PRSG,Truck and Bus Tires,China,,,84 FR 4436, 2/15/2019,https://www.govinfo.gov/content/pkg/FR-2019-02-15/pdf/2019-02656.pdf,,,1
+2017/4/3,,A-1312,A-570-042,A,228,ISM,Stainless Steel Sheet and Strip,China,,,82 FR 16160,  4/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-04-03/pdf/2017-06488.pdf,,,1
+2017/4/19,,A-1313,A-570-044,A,229,CH,"1,1,1,2 Tetrafluoroethane (R-134a)",China,,,82 FR 18422, 4/19/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-04-19/pdf/2017-07913.pdf,,,1
+2017/5/18,,A-1316,A-570-045,A,232,CH,"1-Hydroxyethylidene-1, 1-Diphosphonic Acid (HEDP)",China,,,82 FR 22807, 5/18/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-18/pdf/2017-10078.pdf,,,1
+2017/3/20,,A-1320,A-570-047,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate,China,,,82 FR 14349, 3/20/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-20/pdf/2017-05440.pdf,,,1
+2017/3/9,,A-1329,A-570-049,A,226,CH,Ammonium Sulfate,China,,,82 FR 13094,  3/9/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-09/pdf/2017-04753.pdf,,,1
+2018/1/4,,A-1341,A-570-051,A,242,AG,Hardwood Plywood Products,China,,,83 FR 504,  1/4/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-04/pdf/2017-28482.pdf,,,1
+2018/4/19,,A-1346,A-570-053,A,245,MM,Aluminum Foil,China,,,83 FR 17362, 4/19/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-04-19/pdf/2018-08115.pdf,,,1
+2018/5/8,,A-1359,A-570-055,A,243,ISO,Carton-Closing Staples,China,,,83 FR 20792,  5/8/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-05-08/pdf/2018-09754.pdf,,,1
+2018/6/4,,A-1360,A-570-056,A,249,MSC,Tool Chests and Cabinets,China,,,83 FR 25645,  6/4/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-04/pdf/2018-11905.pdf,,,1
+2018/6/11,,A-1362,A-570-058,A,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,China,,,83 FR 26962, 6/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-11/pdf/2018-12593.pdf,,,1
+2018/7/20,,A-1369,A-570-060,A,244,TX,Fine Denier Polyester Staple Fiber,China,,,83 FR 34545, 7/20/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-20/pdf/2018-15567.pdf,,,1
+2018/8/31,,A-1381,A-570-062,A,252,ISO,Cast Iron Soil Pipe Fittings,China,,,83 FR 44570, 8/31/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-31/pdf/2018-19094.pdf,,,1
+2018/8/1,,A-1383,A-570-064,A,250,ISO,Stainless Steel Flanges,China,,,83 FR 37468,  8/1/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-01/pdf/2018-16348.pdf,,,1
+2018/11/26,,A-1395,A-570-067,A,253,ISO,Forged Steel Fittings,China,,,83 FR 60397,11/26/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-11-26/pdf/2018-25703.pdf,,,1
+2019/2/13,,A-1408,A-570-069,A,264,PRSG,Rubber Bands,China,,,84 FR 4774, 2/19/2019,https://www.govinfo.gov/content/pkg/FR-2019-02-19/pdf/2019-02783.pdf,,,1
+2018/11/13,,A-1397,A-570-071,A,255,CH,Sodium Gluconate,China,,,83 FR 56299,11/13/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-11-13/pdf/2018-24705.pdf,,,1
+2019/2/5,,A-1399,A-570-073,A,277,MM,Common Alloy Aluminum Sheet,China,,,84 FR 2813,  2/8/2019,https://www.govinfo.gov/content/pkg/FR-2019-02-08/pdf/2019-01836.pdf,,,1
+2019/3/19,,A-1400,A-570-075,A,250,PRSG,Plastic Decorative Ribbon,China,,,84 FR 10786, 3/22/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-22/pdf/2019-05520.pdf,,,1
+2019/2/28,,A-1402,A-570-077,A,249,ISP,Large Diameter Welded Pipe,China,,,84 FR 8083,  3/6/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-06/pdf/2019-04050.pdf,,,1
+2019/4/26,,A-1407,A-570-079,A,259,ISP,Cast Iron Soil Pipe,China,,,84 FR 19035,  5/3/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-03/pdf/2019-09068.pdf,,,1
+2019/5/21,,A-1412,A-570-082,A,254,TR,Steel Wheels,China,,,84 FR 24098, 5/24/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-24/pdf/2019-11015.pdf,,,1
+2019/7/8,,A-1416,A-570-084,A,257,PRSGC,Quartz,China,,,84 FR 33053 ,11-Jul-19,https://www.govinfo.gov/content/pkg/FR-2019-07-11/pdf/2019-14865.pdf,,,1
+2019/8/7,,A-1441,A-570-086,A,258,ISO,Steel Propane Cylinders,China,,,84 FR 41703 , 8/15/2019,https://www.govinfo.gov/content/pkg/FR-2019-08-15/pdf/2019-17312.pdf,,,1
+2019/9/11,,A-1420,A-570-088,A,263,ISO,Steel Racks,China,,,84 FR 48584, 9/16/2019,https://www.govinfo.gov/content/pkg/FR-2019-09-16/pdf/2019-19949.pdf,,,1
+2019/8/23,,A-1421,A-570-090,A,262,TR,Steel Trailer Wheels,China,,,84 FR 45952,  9/3/2019,https://www.govinfo.gov/content/pkg/FR-2019-09-03/pdf/2019-18937.pdf,,,1
+2019/12/12,,A-1424,A-570-092,A,269,MSC,Mattresses ,China ,,,84 FR 68395,12/16/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-16/pdf/2019-27166.pdf,,,1
+2019/12/11,,A-1425,A-570-093,A,268,ISO,Refillable Stainless Steel Kegs,China ,,, 84 FR 68405,12/16/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-16/pdf/2019-27128.pdf,,,1
+2019/12/17,,A-1428,A-570-095,A,271,MM,Aluminum Wire and Cable ,China,,,84 FR 70496 ,23-Dec-19,https://www.govinfo.gov/content/pkg/FR-2019-12-23/pdf/2019-27641.pdf,,,1
+2020/4/3,,A-1441,A-570-104,A,274,ISO,Carbon and Alloy Steel Threaded Rod,China,,,85 FR 19929,  4/9/2020,https://www.govinfo.gov/content/pkg/FR-2020-04-09/pdf/2020-07482.pdf,,,1
+2020/4/13,,A-1445,A-570-106,A,278,MSC,Wooden Cabinets and Vanities,China,,,85 FR 22126, 4/21/2020,https://www.govinfo.gov/content/pkg/FR-2020-04-21/pdf/2020-08544.pdf,,,1
+2020/5/26,,A-1447,A-570-108,A,279,MSC,Ceramic Tile,China,,,85 FR 33089,  6/1/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-01/pdf/2020-11721.pdf,,,1
+2019/12/5,,A1449,A-570-110,A,267,MSC,Vertical Metal File Cabinets,China ,,,84 FR 68121,13-Dec-19,https://www.govinfo.gov/content/pkg/FR-2019-12-13/pdf/2019-27028.pdf,,,1
+2020/7/14,,A-1452,A-570-112,A,281,MSC,Certain Collated Steel Staples,China,,,85 FR 43815, 7/20/2020,https://www.govinfo.gov/content/pkg/FR-2020-07-20/pdf/2020-15622.pdf,,,1
+1994/11/25,2017/10/30,A-663,A-570-826,A,69,MSC,Paper clips,China,,,82 FR 50120,10/30/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-10-30/pdf/2017-23537.pdf,,,1
+1994/12/28,2017/9/1,A-669,A-570-827,A,66,MSC,Cased pencils,China,,,82 FR 41608,  9/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-09-01/pdf/2017-18588.pdf,,,1
+1994/12/22,2018/12/12,A-672,A-570-828,A,80,MM,Silicomanganese,China,,,83 FR 63830,12/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-12-12/pdf/2018-26869.pdf,,,1
+1994/11/16,2017/11/6,A-683,A-570-831,A,83,AG,Fresh garlic,China,,,82 FR 51394, 11/6/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-11-06/pdf/2017-24071.pdf,,,1
+1995/5/12,2017/4/17,A-696,A-570-832,A,77,MM,Pure magnesium (ingot),China,,,82 FR 18114, 4/17/2014,https://www.gpo.gov/fdsys/pkg/FR-2017-04-17/pdf/2017-07698.pdf,,,1
+1995/6/21,2017/8/9,A-703,A-570-835,A,86,CH,Furfuryl alcohol,China,,,82 FR 37194,  8/9/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-08-09/pdf/2017-16769.pdf,,,1
+1995/3/29,2017/2/15,A-718,A-570-836,A,64,CH,Glycine,China,,,82 FR 10745, 2/15/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-02-15/pdf/2017-03048.pdf,,,1
+1997/4/17,2002/8/14,A-744,A-570-846,A,110,TR,Brake rotors,China,,,73 FR 36039, 6/25/2008,,,,0
+1997/7/7,2014/3/28,A-749,A-570-847,A,5,CH,Persulfates,China,,,84 FR 45123, 8/28/2019,https://www.govinfo.gov/content/pkg/FR-2019-08-28/pdf/2019-18558.pdf,,,1
+1997/9/15,2019/5/16,A-752,A-570-848,A,6,AG,Crawfish tail meat,China,,,84 FR 26647,  6/7/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-07/pdf/2019-12027.pdf,,,0
+1997/10/24,2015/12/12,A-753,A-570-849,A,7,ISM,Carbon steel plate ,China,,,80 FR 79306,12/21/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-12-21/pdf/2015-32022.pdf,,,1
+1999/2/19,2015/9/2,A-777,A-570-851,A,11,AG,Preserved mushrooms,China,,,80 FR 53104,  9/2/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-09-02/pdf/2015-21771.pdf,,,1
+2000/6/5,2010/11/2,A-841,A-570-855,A,54,AG,Non-frozen apple juice concentrate,China,,,75 FR 69628,11/15/2010,,,,0
+2000/6/19,2006/5/18,A-851,A-570-856,A,,CH,Synthetic indigo,China,,,,,,,,0
+2001/9/7,2018/12/17,A-874,A-570-860,A,92,ISM,Steel concrete reinforcing bar,China,,,83 FR 64530,12/17/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-17/pdf/2018-27239.pdf,,,1
+2001/9/17,2018/5/11,A-891,A-570-862,A,95,EN,Foundry coke,China,,,83 FR 22007, 5/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-05-11/pdf/2018-10068.pdf,,,1
+2001/12/10,2018/4/26,A-893,A-570-863,A,100,AG,Honey,China,,,83 FR 18277, 4/26/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-04-26/pdf/2018-08776.pdf,,,1
+2001/11/19,2018/3/12,A-895,A-570-864,A,98,MM,Pure magnesium (granular),China,,,83 FR 10676, 3/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-12/pdf/2018-05023.pdf,,,1
+2001/11/29,2014/2/7,A-899,A-570-865,A,93,ISM,Hot-rolled carbon steel flat products,China,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2002/1/8,2018/7/11,A-921,A-570-866,A,101,AG,Folding gift boxes,China,,,83 FR 32073, 7/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-11/pdf/2018-14825.pdf,,,1
+2002/4/4,2007/6/5,A-922,A-570-867,A,104,PRSG,Automotive replacement glass windshields,China,,,,,,,,0
+2002/6/27,2012/11/6,A-932,A-570-868,A,107,MSC,Folding metal tables and chairs,China,,,77 FR 71168,11/29/2012,,,,0
+2003/1/28,2015/2/18,A-986,A-570-873,A,112,MM,Ferrovanadium ,China,,,80 FR 8607, 8/20/2020,http://www.gpo.gov/fdsys/pkg/FR-2015-02-18/pdf/2015-03336.pdf4,,,1
+2003/4/7,2019/7/9,A-990,A-570-875,A,114,ISO,Non-malleable cast iron pipe fittings,China,,,84 FR 32722 ,  7/9/2019,https://www.govinfo.gov/content/pkg/FR-2019-07-09/pdf/2019-14561.pdf,,,1
+2003/6/12,2008/6/12,A-1010,A-570-877,A,115,MSC,Lawn and garden fence posts,China,,,73 FR 41316, 7/18/2008,,,,0
+2003/7/9,2015/6/9,A-1013,A-570-878,A,117,CH,Saccharin,China,,,80 FR 32533,  6/9/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-06-09/pdf/2015-14069.pdf,,,0
+2003/10/1,2015/5/27,A-1014,A-570-879,A,116,CH,Polyvinyl alcohol,China,,,80 FR 30208, 5/27/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-05-27/pdf/2015-12788.pdf,,,1
+2003/10/1,2015/2/17,A-1020,A-570-880,A,120,CH,Barium carbonate,China,,,80 FR 8286, 8/20/2020,https://www.federalregister.gov/documents/2020/08/20/2020-18286/barium-carbonate-from-the-peoples-republic-of-china-continuation-of-antidumping-duty-order,,,1
+2003/12/12,2014/8/12,A-1021,A-570-881,A,123,ISO,Malleable iron pipe fittings,China,,,84 FR 66375 ,11/25/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-04/pdf/2019-26216.pdf,,,1
+2003/11/19,2020/2/25,A-1022,A-570-882,A,122,CH,Refined brown aluminum oxide,China,,,79 FR 61606,  3/6/2020,https://www.govinfo.gov/content/pkg/FR-2020-03-06/pdf/2020-04624.pdf,,,1
+2004/6/3,2009/6/3,A-1034,A-570-884,A,126,ME,Color television receivers,China,,,74 FR 31409,  7/1/2009,,,,0
+2004/8/9,2016/5/6,A-1043,A-570-886,A,129,PRSG,Polyethylene retail carrier bags,China,,,81 FR 27087,  5/5/2016,,,,1
+2004/8/6,2015/4/16,A-1046,A-570-887,A,127,CH,Tetrahydrofurfuryl alcohol,China,,,80 FR 20470, 4/16/2015,,,,1
+2004/8/6,2016/3/8,A-1047,A-570-888,A,128,MSC,Ironing tables,China,,,75 FR 36629, 6/28/2010,,,,1
+2005/1/4,2017/2/24,A-1058,A-570-890,A,132,MSC,Wooden bedroom furniture,China,,,82 FR 11533, 2/24/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-02-24/pdf/2017-03639.pdf,,,1
+2004/12/2,2015/8/19,A-1059,A-570-891,A,130,TR,Hand trucks,China,,,80 FR 50266, 8/19/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-08-19/pdf/2015-20495.pdf,,,1
+2004/12/29,2015/11/17,A-1060,A-570-892,A,131,CH,Carbazole Violet Pigment 23,China,,,80 FR 71773,11/17/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-11-17/pdf/2015-29361.pdf,,,1
+2005/2/1,2017/6/1,A-1064,A-570-893,A,134,AG,Frozen warm-water shrimp and prawns,China,,,82 FR 25242,  6/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-06-01/pdf/2017-11323.pdf,,,1
+2005/3/30,2016/7/12,A-1070-B,A-570-894,A,133,AG,Tissue paper,China,,,81 FR 45128, 7/12/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-12/pdf/2016-16465.pdf,,,1
+2005/1/25,2015/9/22,A-1070-A,A-570-895,A,133,AG,Crepe paper,China,,,80 FR 57149, 9/22/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-09-22/pdf/2015-24038.pdf,,,1
+2005/4/15,2016/7/21,A-1071,A-570-896,A,135,MM,Magnesium,China,,,81 FR 47351, 7/21/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-21/pdf/2016-17206.pdf,,,1
+2005/6/24,2016/11/29,A-1082,A-570-898,A,136,CH,Chlorinated Isocyanurates,China,,,81 FR 85927,11/29/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-11-29/pdf/2016-28702.pdf,,,1
+2006/6/1,2017/3/21,A-1091,A-570-899,A,140,TX,Artist canvas,China,,,82 FR 14502, 3/21/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-21/pdf/2017-05532.pdf,,,1
+2009/1/23,2015/9/18,A-1092,A-570-900,A,,ISO,Diamond Sawblades,China,,,80 FR 56441, 9/18/2015,https://www.govinfo.gov/content/pkg/FR-2015-09-18/pdf/2015-23468.pdf,,,1
+2006/9/28,2018/3/6,A-1095,A-570-901,A,141,AG,Lined paper,China,,,83 FR 9479,  3/6/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-06/pdf/2018-04501.pdf,,,1
+2007/4/27,2018/7/12,A-1103,A-570-904,A,142,CH,Activated carbon,China,,,83 FR 32269, 7/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-12/pdf/2018-15014.pdf,,,1
+2007/6/1,2018/4/4,A-1104,A-570-905,A,143,TX,Polyester staple fiber ,China,,,83 FR 14415,  4/4/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-04-04/pdf/2018-06838.pdf,,,1
+2008/3/19,2019/3/1,A-1110,A-570-908,A,145,CH,Sodium Hexametaphosphate,China,,,84 FR 7021,  3/1/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-01/pdf/2019-03682.pdf,,,1
+2008/8/1,2014/1/10,A-1114,A-570-909,A,148,ISO,Steel nails,China,,,84 FR 66151 , 1/10/2014,https://www.govinfo.gov/content/pkg/FR-2019-12-03/pdf/2019-26140.pdf,,,1
+2008/7/22,2019/6/26,A-1116,A-570-910,A,147,ISP,Circular welded carbon quality steel pipe,China,,,84 FR 30086, 6/26/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-26/pdf/2019-13617.pdf,,,1
+2008/9/4,2019/2/4,A-1117,A-570-912,A,151,PRSG,New Pneumatic Off-the-Road Tires,China,,,84 FR 20616, 5/10/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-10/pdf/2019-09670.pdf,,,0
+2008/8/5,2014/6/23,A-1118,A-570-914,A,146,ISP,Light-walled rectangular pipe and tube,China,,,85 FR 47169,  8/4/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-04/pdf/2020-16871.pdf,,,1
+2008/8/7,2014/3/26,A-1122,A-570-916,A,149,TX,Laminated woven sacks,China,,,84 FR 45128, 8/28/2019,https://www.govinfo.gov/content/pkg/FR-2019-08-28/pdf/2019-18598.pdf,,,1
+2008/10/6,2014/3/11,A-1123,A-570-918,A,153,ISO,Steel wire garment hangers,China,,,84 FR 45127, 8/28/2019,https://www.govinfo.gov/content/pkg/FR-2019-08-28/pdf/2019-18599.pdf,http://www.gpo.gov/fdsys/pkg/FR-2014-03-28/pdf/2014-06713.pdf,,1
+2008/10/7,2015/1/9,A-1125,A-570-919,A,154,CH,Electrolytic manganese dioxide,China,,,85 FR 40970,  7/7/2020,https://www.govinfo.gov/content/pkg/FR-2020-07-08/pdf/2020-14681.pdf,,,1
+2008/11/24,2015/1/30,A-1126,A-570-920,A,156,AG,Lightweight thermal paper,China,,,85 FR 40249,  7/6/2020,https://www.govinfo.gov/content/pkg/FR-2020-07-06/pdf/2020-14437.pdf,,,1
+2008/11/10,2015/2/6,A-1132,A-570-924,A,155,PRSG,"Polyethylene terephthalate film, sheet, and strip",China,,,85 FR 55412,  9/8/2020,http://www.gpo.gov/fdsys/pkg/FR-2015-02-06/pdf/2015-02456.pdf,,,1
+2009/2/19,2014/4/23,A-1140,A-570-928,A,157,MSC,Uncovered innerspring units,China,,,79 FR 22624, 4/23/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-04-23/pdf/2014-09275.pdf,,,1
+2009/2/26,2014/6/23,A-1143,A-570-929,A,159,MSC,Small diameter graphite electrodes,China,,,85 FR 19134,04/062020,https://www.govinfo.gov/content/pkg/FR-2020-04-06/pdf/2020-07150.pdf,,,1
+2009/3/17,2014/7/23,A-1144,A-570-930,A,160,ISP,Circular welded austenitic stainless pressure pipe,China,,,84 FR 66883, 12/2/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-06/pdf/2019-26359.pdf,,,1
+2009/4/14,2020/3/3,A-1145,A-570-932,A,161,ISO,Steel threaded rod,China,,,85 FR 13625,  3/9/2020,https://www.govinfo.gov/content/pkg/FR-2019-11-29/pdf/2019-25888.pdf,,,1
+2009/4/28,2014/4/28,A-1148,A-570-933,A,163,MSC,Frontseating service valves,China,,,79 FR 27573, 5/14/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-05-14/pdf/2014-11136.pdf,,,0
+2009/4/28,2014/6/2,A-1146,A-570-934,A,162,CH,HEDP,China,,,79 FR 31301,  6/2/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-06-02/pdf/2014-12728.pdf,,,0
+2009/5/13,2014/5/20,A-1149,A-570-935,A,158,ISP,Circular welded carbon quality steel line pipe,China,,,84 FR 52456, 9/25/2019,http://www.gpo.gov/fdsys/pkg/FR-2014-05-20/pdf/2014-11682.pdf,,,1
+2009/5/29,2015/6/24,A-1152,A-570-937,A,164,CH,Citric acid and certain citrate,China,,,80 FR 36318, 6/24/2015,https://www.govinfo.gov/content/pkg/FR-2015-06-24/pdf/2015-15399.pdf,,,1
+2009/8/3,2015/2/4,A-1153,A-570-939,A,165,ME,Tow Behind Lawn Groomer,China,,,85 FR 46586,  8/3/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-03/pdf/2020-16692.pdf,,,1
+2009/9/14,2020/10/15,A-1154,A-570-941,A,166,ME,Kitchen Appliance Shelving and Racks,China,,,85 FR 65345,10/15/2020,https://www.govinfo.gov/content/pkg/FR-2020-10-15/pdf/2020-22807.pdf,,,1
+2010/5/21,2015/5/18,A-1159,A-570-943,A,170,ISP,Oil Country Tubular Goods,China,,,80 FR 28224, 5/18/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-05-18/pdf/2015-11981.pdf,,,1
+2010/6/29,2015/10/13,A-1160,A-570-945,A,171,ISO,Prestressed Concrete Steel Wire Strand,China,,,80 FR 61372,10/13/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-10-13/pdf/2015-25978.pdf,,,1
+2010/7/23,2015/11/12,A-1161,A-570-947,A,173,ISO,Steel Grating,China,,,80 FR 69940,11/12/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-11-12/pdf/2015-28755.pdf,,,1
+2010/9/1,2016/9/22,A-1164,A-570-952,A,175,TX,Narrow Woven Ribbons With Woven Selvedge,China,,,81 FR 65341, 9/22/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-22/pdf/2016-22888.pdf,,,1
+2010/9/20,2016/2/12,A-1167,A-570-954,A,176,PRSGC,Magnesia Carbon Bricks,China,,,81 FR 7502, 2/12/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-02-12/pdf/2016-02994.pdf,,,1
+2010/11/10,2016/3/16,A-1168,A-570-956,A,178,ISP,"Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe",China,,,81 FR 14089, 3/16/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-16/pdf/2016-05941.pdf,,,1
+2010/11/17,2017/1/6,A-1169,A-570-958,A,179,AG,Coated Paper Suitable for High-Quality Print Graphics Using Sheet-Fed Presses,China,,,82 FR 1692,  1/6/2017,https://www.govinfo.gov/content/pkg/FR-2017-01-06/pdf/2017-00029.pdf,,,1
+2010/7/22,2015/12/21,A-1173,A-570-962,A,172,CH,Potassium Phosphate Salts,China,,,80 FR 79305,10/21/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-12-21/pdf/2015-32020.pdf,,,1
+2010/11/22,2016/12/21,A-1174,A-570-964,A,180,MM,Seamless Refined Copper Pipe and Tube,China,,,81 FR 93664,12/21/2016,https://www.govinfo.gov/content/pkg/FR-2016-12-21/pdf/2016-30653.pdf,,,1
+2011/3/3,2014/11/20,A-1176,A-570-965,A,181,ISP,Drill Pipe and Drill Collars,China,,,79 FR 78037,12/29/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-29/pdf/2014-30384.pdf,,,0
+2011/5/26,2017/4/25,A-1177,A-570-967,A,183,MM,Aluminum Extrusions,China,,,82 FR 19025, 4/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-04-25/pdf/2017-08352.pdf,,,1
+2011/12/8,2018/1/3,A-1179,A-570-970,A,184,AG,Multilayered Wood Flooring,China,,,83 FR 344,  1/3/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-03/pdf/2017-28202.pdf,,,1
+2012/5/10,2017/11/27,A-1186,A-570-972,A,185,CH,Stilbenic Optical Brightening Agent,China,,,82 FR 55990,11/27/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-11-27/pdf/2017-25537.pdf,,,1
+2012/6/21,2017/12/5,A-1188,A-570-977,A,187,ISO,High Pressure Steel Cylinders,China,,,82 FR 57427, 12/5/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-12-05/pdf/2017-26164.pdf,,,1
+2012/12/7,2019/3/20,A-1190,A-570-979,A,189,ME,Crystalline Silicon Photovoltaic Cells,China,,,84 FR 10300, 3/20/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-20/pdf/2019-05273.pdf,,,1
+2013/2/15,2019/5/17,A-1195,A-570-981,A,192,ISO,Utility Scale Wind Towers,China,,,84 FR 22442, 5/17/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-17/pdf/2019-10270.pdf,,,1
+2013/7/19,2018/11/30,A-1203,A-570-985,A,197,CH,Xanthan Gum,China,,,83 FR 61602,11/30/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-11-30/pdf/2018-26170.pdf,,,1
+2014/6/24,2019/6/24,A-1208,A-570-990,A,196,ISO,Prestressed Concrete Steel Rail Tie Wire,China,,,84 FR 26816, 6/10/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-10/pdf/2019-12133.pdf,,,0
+2014/11/26,,A-1229,A-570-992,A,202,CH,Monosodium Glutamate,China,,,79 FR 70505,11/26/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-11-26/pdf/2014-28053.pdf,,,1
+2014/12/3,,A-1238,A-570-996,A,202,ISM,Non-Oriented Electrical Steel,China,,,79 FR 71741, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28405.pdf,,,1
+1995/8/11,2007/6/22,A-715,A-580-825,A,91,ISP,Oil country tubular goods,Korea,,,,,,,,0
+1998/9/15,2016/8/15,A-772,A-580-829,A,10,ISM,Stainless steel wire rod,Korea,,,81 FR 54043, 8/15/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-08-15/pdf/2016-19256.pdf,,,1
+1999/5/21,2011/12/1,A-791,A-580-831,A,18,ISM,Stainless steel plate in coils,Korea,,,76 FR 74771, 12/1/2011,https://www.gpo.gov/fdsys/pkg/FR-2011-12-01/pdf/2011-30951.pdf,,,0
+1999/7/27,2017/10/3,A-801,A-580-834,A,25,ISM,Stainless steel sheet & strip,Korea,,,82 FR 46036, 10/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-10-03/pdf/2017-21210.pdf,,,1
+2000/2/10,2018/3/12,A-821,A-580-836,A,40,ISM,Carbon steel plate,Korea,,,83 FR 10672, 3/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-12/pdf/2018-04846.pdf,,,1
+2000/5/25,2017/2/10,A-825,A-580-839,A,53,TX,Polyester staple fiber,Korea,,,82 FR 10330, 2/10/2011,https://www.gpo.gov/fdsys/pkg/FR-2017-02-10/pdf/2017-02790.pdf,,,1
+2000/8/18,2006/3/28,A-854,A-580-841,A,,ISO,Structural steel beams,Korea,,,,,,,,0
+2001/9/7,2007/8/9,A-877,A-580-844,A,92,ISM,Steel concrete reinforcing bar,Korea,,,,,,,,0
+2001/5/18,2006/6/15,A-889,A-580-846,A,,ISM,Stainless steel angle,Korea,,,,,,,,0
+2003/10/1,2014/4/13,A-1017,A-580-850,A,116,CH,Polyvinyl alcohol,Korea,,,80 FR 30208, 5/27/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-05-27/pdf/2015-12788.pdf,,,0
+2009/1/23,2011/10/24,A-1093,A-580-855,A,,ISO,Diamond Sawblades,Korea,,,76 FR 66892,10/28/2011,,,,0
+2008/8/5,2014/6/23,A-1119,A-580-859,A,146,ISP,Light-walled rectangular pipe and tube,Korea,,,85 FR 47169,  8/4/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-04/pdf/2020-16871.pdf,,,1
+2012/8/31,2018/10/16,A-1189,A-580-867,A,188,ME,Large Power Transformers,Korea,,,83 FR 52206,10/16/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-10-16/pdf/2018-22454.pdf,,,1
+2013/2/15,2019/5/6,A-1200,A-580-868,A,193,ME,Large Residential Washers,Mexico,,,84 FR 19763,  5/6/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-06/pdf/2019-09213.pdf,,,1
+2014/9/10,,A-1216,A-580-870,A,199,ISP,Oil Country Tubular Goods,Korea,,,85 FR 48665, 8/12/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-12/pdf/2020-17632.pdf,,,1
+2014/12/3,,A-1241,A-580-872,A,202,ISM,Non-Oriented Electrical Steel,Korea,,,79 FR 71741, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28405.pdf,,,1
+2015/7/13,,A-1252,A-580-874,A,206,ISO,Steel Nails,Korea,,,80 FR 39994, 7/13/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-07-13/pdf/2015-17239.pdf,,,1
+2015/12/1,,A-1260,A-580-876,A,209,ISP,Welded Line Pipe,Korea,,,80 FR 75056, 12/1/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-12-01/pdf/2015-30506.pdf,,,1
+2016/7/25,,A-1277,A-580-878,A,215,ISM,Corrosion-Resistant Steel Products,Korea,,,81 FR 48390, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17557.pdf,,,1
+2016/9/13,,A-1280,A-580-880,A,217,ISP,Heavy Walled Rectangular Welded Carbon Steel Pipes and Tubes,Korea,,,81 FR 62865, 9/13/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-13/pdf/2016-22003.pdf,,,1
+2016/9/20,,A-1287,A-580-881,A,218,ISM,Cold-Rolled Steel Flat Products,Korea,,,81 FR 64432, 9/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-20/pdf/2016-22613.pdf,,,1
+2016/10/3,,A-1294,A-580-883,A,219,ISM,Hot-rolled carbon steel flat products,Korea,,,81 FR 67962, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23836.pdf,,,1
+2017/4/24,,A-1314,A-580-885,A,230,MM,Phosphor Copper,Korea,,,82 FR 18893, 4/24/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-04-24/pdf/2017-08358.pdf,,,1
+2017/5/15,,A-1315,A-580-886,A,231,MM,Ferrovanadium,Korea,,,82 FR 22309, 5/15/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-15/pdf/2017-09745.pdf,,,1
+2017/5/25,,A-1325,A-580-887,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Korea,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2017/8/18,,A-1330,A-580-889,A,235,CH,Dioctyl Terephthalate (DOTP),Korea,,,82 FR 39409, 8/18/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-08-18/pdf/2017-17627.pdf,,,1
+2017/9/12,,A-1335,A-580-890,A,237,PRSG,Emulsion Styrene-Butadiene Rubber,Korea,,,82 FR 42790, 9/12/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-09-12/pdf/2017-19287.pdf,,,1
+2018/5/21,,A-1351,A-580-891,A,243,ISM,Carbon and Alloy Steel Wire Rod ,Korea,,,83 FR 23417 ,21-May-18,https://www.govinfo.gov/content/pkg/FR-2018-05-21/pdf/2018-10879.pdf,,,1
+2018/6/11,,A-1366,A-580-892,A,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,Korea,,,83 FR 26962, 6/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-11/pdf/2018-12593.pdf,,,1
+2018/7/20,,A-1371,A-580-893,A,244,TX,Fine Denier Polyester Staple Fiber,Korea,,,83 FR 34545, 7/20/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-20/pdf/2018-15567.pdf,,,1
+2018/8/16,,A-1378,A-580-895,A,261,TX,Low Melt Polyester Staple Fiber,Korea,,,83 FR 40752, 8/16/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-16/pdf/2018-17691.pdf,,,1
+2019/4/23,,A-1405,A-580-897,A,249,ISP,Large Diameter Welded Pipe,Korea,,,84 FR 18767 ,  5/2/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-02/pdf/2019-08950.pdf,,,1
+2020/3/17,,A-1439,A-580-899,A,270,CH,Acetone,South Africa,,,85 FR 17866, 3/31/2020,https://www.govinfo.gov/content/pkg/FR-2020-03-31/pdf/2020-06639.pdf,,,1
+2020/8/20,,A-1460,A-580-902,A,282,ME,Utility Scale Wind Towers,Korea,,,85 FR 52546, 8/26/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-26/pdf/2020-18792.pdf,,,1
+2020/9/3,,A-1455,A-580-903,,283,CH,Polyethylene Terephthalate Sheet ,Korea ,,,85 FR 55824, 9/10/2020,https://www.govinfo.gov/content/pkg/FR-2020-09-10/pdf/2020-20011.pdf,,,1
+1994/2/9,2011/1/23,A-640,A-583-821,A,70,ISO,Forged stainless steel flanges,Taiwan,,,76 FR 5331, 1/31/2011,,,,0
+1998/9/15,2016/8/15,A-775,A-583-828,A,10,ISM,Stainless steel wire rod,Taiwan,,,81 FR 54043, 8/15/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-08-15/pdf/2016-19256.pdf,,,1
+1999/5/21,2017/1/9,A-793,A-583-830,A,18,ISM,Stainless steel plate in coils,Taiwan,,,82 FR 2322,  1/9/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-01-09/pdf/2017-00140.pdf,,,1
+1999/7/27,2017/10/3,A-803,A-583-831,A,25,ISM,Stainless steel sheet & strip,Taiwan,,,82 FR 46036, 10/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-10-03/pdf/2017-21210.pdf,,,1
+2000/5/25,2017/2/10,A-826,A-583-833,A,53,TX,Polyester staple fiber,Taiwan,,,82 FR 10330, 2/10/2011,https://www.gpo.gov/fdsys/pkg/FR-2017-02-10/pdf/2017-02790.pdf,,,1
+2001/11/29,2014/2/7,A-906,A-583-835,A,93,ISM,Hot-rolled carbon steel flat products,Taiwan,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2002/7/1,2014/8/6,A-934,A-583-837,A,108,CH,Polyethylene terephthalate (PET) film,Taiwan,,,79 FR 45762,  8/6/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-08-06/pdf/2014-18599.pdf,,,1
+2011/3/15,2013/12/30,A-1088,A-583-841,A,182,CH,Polyvinyl alcohol,Taiwan,,,79 FR 4442, 1/28/2014,,,,0
+2008/9/17,2014/2/5,A-1130,A-583-842,A,152,ME,Raw flexible magnets,Taiwan,,,79 FR 6886,  2/5/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-05/pdf/2014-02438.pdf,,,1
+2010/5/4,2016/5/6,A-1157,A-583-843,A,169,PRSG,Polyethylene Retail Carrier Bags,Taiwan,,,81 FR 27087,  5/5/2016,https://www.govinfo.gov/content/pkg/FR-2016-05-05/pdf/2016-10625.pdf,,,1
+2010/9/1,2016/9/22,A-1165,A-583-844,A,175,TX,Narrow Woven Ribbons With Woven Selvedge,Taiwan,,,81 FR 65341, 9/22/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-22/pdf/2016-22888.pdf,,,1
+2012/5/10,2017/11/27,A-1187,A-583-848,A,185,CH,Stilbenic Optical Brightening Agent,Taiwan,,,82 FR 55990,11/27/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-11-27/pdf/2017-25537.pdf,,,1
+2012/12/10,2018/5/31,A-1197,A-583-849,A,190,ISO,Steel Wire Garment Hangers,Taiwan,,,83 FR 24972, 5/31/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-05-31/pdf/2018-11541.pdf,,,1
+2014/9/10,2017/7/22,A-1219,A-583-850,A,,ISP,Oil Country Tubular Goods,Taiwan,,,82 FR 35181, 7/28/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-07-28/pdf/2017-15944.pdf,,,0
+2014/12/3,,A-1243,A-583-851,A,202,ISM,Non-Oriented Electrical Steel,Taiwan,,,79 FR 71741, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28405.pdf,,,1
+2015/2/18,,A-1247,A-583-853,A,205,ME,Crystalline Silicon Photovoltaic Products,Taiwan,,,85 FR 56215, 9/11/2020,http://www.gpo.gov/fdsys/pkg/FR-2015-02-18/pdf/2015-03179.pdf,,,1
+2015/7/13,,A-1255,A-583-854,A,206,ISO,Steel Nails,Taiwan,,,80 FR 39994, 7/13/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-07-13/pdf/2015-17239.pdf,,,1
+2016/7/25,,A-1278,A-583-856,A,215,ISM,Corrosion-Resistant Steel Products,Taiwan,,,81 FR 48390, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17557.pdf,,,1
+2017/5/25,,A-1327,A-583-858,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Taiwan,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2017/10/2,,A-1339,A-583-859,A,238,ISM,Steel Concrete Reinforcing Bar,Taiwan,,,82 FR 45809, 10/2/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-10-02/pdf/2017-20925.pdf,,,1
+2018/7/20,,A-1372,A-583-860,A,244,TX,Fine Denier Polyester Staple Fiber,Taiwan,,,83 FR 34545, 7/20/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-20/pdf/2018-15567.pdf,,,1
+2018/8/16,,A-1379,A-583-861,A,261,TX,Low Melt Polyester Staple Fiber,Taiwan,,,83 FR 40752, 8/16/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-16/pdf/2018-17691.pdf,,,1
+2018/9/24,,A-1396,A-583-863,A,253,ISO,Forged Steel Fittings,Taiwan,,,83 FR 48280, 9/24/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-09-24/pdf/2018-20797.pdf,,,1
+2020/1/24,,A-1443,A-583-865,A,274,ISO,Carbon and Alloy Steel Threaded Rod,Taiwan ,,,85 FR 6511,  2/5/2020,https://www.govinfo.gov/content/pkg/FR-2020-02-05/pdf/2020-02274.pdf,,,1
+1994/6/10,2006/3/28,A-660,A-588-831,A,,ISM,Grain-oriented electrical steel,Japan,,,,,,,,0
+1995/2/21,2017/8/9,A-681,A-588-833,A,85,ISM,Stainless steel bar,Japan,,,83 FR 49910, 10/3/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-10-03/pdf/2018-21536.pdf,,,0
+1995/8/11,2007/6/22,A-714,A-588-835,A,91,ISP,Oil country tubular goods,Japan,,,,,,,,0
+1996/7/2,2018/12/18,A-739,A-588-838,A,96,ISM,Clad steel plate,Japan,,,83 FR 64811,12/18/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-18/pdf/2018-27332.pdf,,,1
+1998/9/15,2016/8/15,A-771,A-588-843,A,10,ISM,Stainless steel wire rod,Japan,,,81 FR 54043, 8/15/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-08-15/pdf/2016-19256.pdf,,,1
+1999/7/27,2017/10/3,A-800,A-588-845,A,25,ISM,Stainless steel sheet & strip,Japan,,,82 FR 46036, 10/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-10-03/pdf/2017-21210.pdf,,,1
+1999/6/29,2011/5/26,A-807,A-588-846,A,24,ISM,Hot-rolled carbon steel flat products,Japan,,,76 FR 36081, 6/21/2011,,,,0
+2000/2/10,2012/1/4,A-820,A-588-847,A,40,ISM,Carbon steel plate,Japan,,,77 FR 263,  1/4/2012,,,,0
+2000/6/26,2017/11/13,A-847-A,A-588-850,A,60,ISP,Large diameter seamless pipe,Japan,,,82 FR 52275,11/13/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-11-13/pdf/2017-24515.pdf,,,1
+2000/6/26,2017/11/13,A-847-B,A-588-851,A,60,ISP,Small diameter seamless pipe,Japan,,,82 FR 52275,11/13/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-11-13/pdf/2017-24515.pdf,,,1
+2000/6/19,2006/3/28,A-853,A-588-852,A,,ISO,Structural steel beams,Japan,,,,,,,,0
+2000/8/28,2018/7/11,A-860,A-588-854,A,74,ISM,Tin mill products,Japan,,,83 FR 32074, 7/11/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-11/pdf/2018-14826.pdf,,,1
+2001/5/18,2006/6/15,A-888,A-588-856,A,,ISM,Stainless steel angle,Japan,,,,,,,,0
+2001/12/6,2013/10/29,A-919,A-588-857,A,99,ISP,Welded large diameter line pipe,Japan,,,84 FR 54837,10/11/2019,https://www.govinfo.gov/content/pkg/FR-2019-10-11/pdf/2019-22339.pdf,,,1
+2003/7/2,2015/5/27,A-1016,A-588-861,A,116,CH,Polyvinyl alcohol,Japan,,,80 FR 30208, 5/27/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-05-27/pdf/2015-12788.pdf,,,1
+2003/12/30,2008/12/30,A-1023,A-588-862,A,124,PRSG,Ceramic station post insulators,Japan,,,73 FR 75675,12/12/2008,,,,0
+2005/12/22,2010/12/22,A-1090,A-588-866,A,138,MM,Superalloy degassed chromium,Japan,,,75 FR 80457,12/22/2010,,,,0
+2014/5/29,,A-1206,A-588-869,A,195,ISM,"Diffusion-Annealed, Nickel-Plated Flat-Rolled Steel Products",Japan,,,84 FR 54114, 10/2/2019,https://www.govinfo.gov/content/pkg/FR-2019-10-09/pdf/2019-22055.pdf,,,1
+2014/12/3,,A-1240,A-588-872,A,202,ISM,Non-Oriented Electrical Steel,Japan,,,79 FR 71741, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28405.pdf,,,1
+2016/7/14,,A-1286,A-588-873,A,214,ISM,Cold-Rolled Steel Flat Products,Japan,,,81 FR 45956, 7/14/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-14/pdf/2016-16798.pdf,,,1
+2016/10/3,,A-1293,A-588-874,A,219,ISM,Hot-rolled carbon steel flat products,Japan,,,81 FR 67962, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23836.pdf,,,1
+2017/5/25,,A-1324,A-588-875,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Japan,,,82 FR 24096, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10757.pdf,,,1
+2019/6/18,,A-1415,A-588-878,A,256,CH,Glycine,Japan,,,84 FR 29170, 6/21/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-21/pdf/2019-13362.pdf,,,1
+2008/10/7,2015/1/9,A-1124,A-602-806,A,154,MM,Electrolytic manganese dioxide,Australia,,,80 FR 1393,  1/9/2015,,,,0
+2016/3/3,,A-1264,A-602-807,A,212,AG,Uncoated Paper,Australia,,,81 FR 11174,  3/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-03/pdf/2016-04699.pdf,,,1
+2016/10/3,,A-1291,A-602-809,A,219,ISM,Hot-rolled carbon steel flat products,Australia,,,81 FR 67962, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23836.pdf,,,1
+1999/5/21,2017/1/9,A-792,A-791-805,A,18,ISM,Stainless steel plate in coils,South Africa,,,82 FR 2322,  1/9/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-01-09/pdf/2017-00140.pdf,,,1
+2000/6/26,2006/5/11,A-850,A-791-808,A,,ISP,"Small diameter carbon & alloy seamless standard, line, and pressure pipe",South Africa,,,,,,,,0
+2001/9/19,2007/11/20,A-905,A-791-809,A,93,ISM,Hot-rolled carbon steel flat products,South Africa,,,,,,,,0
+2003/1/28,2015/2/18,A-987,A-791-815,A,112,MM,Ferrovanadium ,South Africa,,,80 FR 8607, 8/20/2020,http://www.gpo.gov/fdsys/pkg/FR-2015-02-18/pdf/2015-03336.pdf4,,,1
+2008/12/11,2014/4/23,A-1141,A-791-821,A,157,MSC,Uncovered innerspring units,South Africa,,,79 FR 22624, 4/23/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-04-23/pdf/2014-09275.pdf,,,1
+2017/1/26,,A-1326,A-791-822,A,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate,South Africa,,,82 FR 8911,  2/1/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-02-01/pdf/2017-02204.pdf,,,1
+2020/3/17,,A-1436,A-791-824,A,270,CH,Acetone,Korea,,,85 FR 17866, 3/31/2020,https://www.govinfo.gov/content/pkg/FR-2020-03-31/pdf/2020-06639.pdf,,,1
+1995/7/10,2011/10/13,A-702,A-821-807,A,89,MM,Ferrovanadium & nitrided vanadium,Russia,,,77 FR 54897,  9/6/2011,,,,0
+1997/10/24,2015/12/12,A-754,A-821-808,A,7,ISM,Carbon steel plate (Suspended),Russia,,,80 FR 79306,12/21/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-12-21/pdf/2015-32022.pdf,,,1
+1999/7/12,2016/10/20,A-808,A-821-809,A,24,ISM,Hot-rolled carbon steel flat products,Russia,,,81 FR 72569,10/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-20/pdf/2016-25431.pdf,,,1
+2000/5/19,2016/8/20,A-856,A-821-811,A,52,CH,Ammonium nitrate,Russia,,,81 FR 53433, 8/12/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-08-12/pdf/2016-19248.pdf,,,0
+2003/3/26,2014/7/2,A-991,A-821-817,A,113,CH,Silicon metal,Russia,,,85 FR 37831, 6/24/2020,http://www.gpo.gov/fdsys/pkg/FR-2014-07-02/pdf/2014-15567.pdf,,,1
+2005/4/15,2010/4/15,A-1072,A-821-819,A,135,MM,Magnesium,Russia,,,76 FR 13128, 3/10/2011,,,,0
+2018/1/24,,A-1352,A-821-824,A,243,ISM,Carbon and Alloy Steel Wire Rod,Russia,,,83 FR 3297, 1/24/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-24/pdf/2018-01254.pdf,,,1
+2001/9/7,2018/12/17,A-873,A-822-804,A,92,ISM,Steel concrete reinforcing bar,Belarus,,,83 FR 64530,12/17/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-17/pdf/2018-27239.pdf,,,1
+2018/1/24,,A-1349,A-822-806,A,243,ISM,Carbon and Alloy Steel Wire Rod,Belarus,,,83 FR 3297, 1/24/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-24/pdf/2018-01254.pdf,,,1
+2001/9/17,2012/11/8,A-673,A-823-805,A,80,MM,Silicomanganese,Ukraine ,,,77 FR 34012,  6/8/2012,,,,1
+1997/10/24,2015/12/12,A-756,A-823-808,A,7,ISM,Carbon steel plate (Suspended),Ukraine,,,80 FR 79306,12/21/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-12-21/pdf/2015-32022.pdf,,,1
+2001/9/7,2018/12/17,A-882,A-823-809,A,92,ISM,Steel concrete reinforcing bar,Ukraine,,,83 FR 64530,12/17/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-17/pdf/2018-27239.pdf,,,1
+2001/9/12,2018/6/12,A-894,A-823-810,A,,CH,Ammonium nitrate,Ukraine,,,83 FR 28202, 6/18/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-18/pdf/2018-12995.pdf,,,0
+2001/11/29,2014/2/7,A-908,A-823-811,A,93,ISM,Hot-rolled carbon steel flat products,Ukraine,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2002/10/29,2013/7/30,A-962,A-823-812,A,110,ISM,Carbon steel wire rod,Ukraine,,,79 FR 38009,  7/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-07-03/pdf/2014-15687.pdf,,,0
+2014/7/10,,A-1222,A-823-815,A,199,ISP,Oil Country Tubular Goods,Ukraine,,,85 FR 48665, 8/12/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-12/pdf/2020-17632.pdf,,,1
+2018/3/14,,A-1356,A-823-816,A,243,ISM,Carbon and Alloy Steel Wire Rod,Ukraine,,,83 FR 1115, 3/14/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-14/pdf/2018-05153.pdf,,,1
+2001/11/21,2007/11/20,A-902,A-834-806,A,93,ISM,Hot-rolled carbon steel flat products,Kazakhstan,,,,,,,,0
+2002/5/23,2019/6/12,A-930,A-834-807,A,106,MM,Silicomanganese,Kazakhstan,,,84 FR 27243, 6/12/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-12/pdf/2019-12394.pdf,,,1
+2001/9/7,2018/12/17,A-879,A-841-804,A,92,ISM,Steel concrete reinforcing bar,Moldova,,,83 FR 64530,12/17/2018,https://www.govinfo.gov/content/pkg/FR-2018-12-17/pdf/2018-27239.pdf,,,1
+2002/10/29,2014/7/3,A-959,A-841-805,A,110,ISM,Carbon steel wire rod,Moldova,,,85 FR 52953, 8/27/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-27/pdf/2020-18900.pdf,,,1
+2000/6/26,2006/5/11,A-846,A-851-802,A,,ISP,"Small diameter carbon & alloy seamless standard, line, and pressure pipe",Czech Republic,,,,,,,,0
+2002/5/22,2006/10/19,C-414,C-122-839,C,105,AG,Softwood lumber,Canada,,,,,,,,0
+2003/10/23,2006/2/16,C-430,C-122-848,C,,AG,Hard red spring wheat,Canada,,,,,,,,0
+2015/12/10,2015/8/3,C-530,C-122-854,C,211,MSC,Supercalendered Paper ,Canada,,,83 FR 32268, 7/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-12/pdf/2018-14921.pdf,,,0
+2018/1/3,,C-566,C-122-858,C,240,AG,Softwood Lumber Products,Canada,,,83 FR 347,  1/3/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-03/pdf/2017-28483.pdf,,,1
+2020/8/20,,C-627,C-122-868,C,282,ME,Utility Scale Wind Towers,Canada ,,,85 FR 52546, 8/26/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-26/pdf/2020-18792.pdf,,,1
+1999/7/6,2011/5/26,C-384,C-351-829,C,24,ISM,Hot-rolled carbon steel flat products,Brazil,,,76 FR 36081, 6/21/2011,,,,0
+2002/10/22,2014/7/3,C-417,C-351-833,C,110,ISM,Carbon steel wire rod,Brazil,,,85 FR 52953, 8/27/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-27/pdf/2020-18900.pdf,,,1
+2016/9/20,,C-540,C-351-844,C,218,ISM,Cold-Rolled Steel Flat Products,Brazil,,,81 FR 64436, 9/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-20/pdf/2016-22614.pdf,,,1
+2016/10/3,,C-545,C-351-846,C,219,ISM,Hot-rolled carbon steel flat products,Brazil,,,81 FR 67960, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23835.pdf,,,1
+2001/12/10,2011/12/1,C-402,C-357-813,C,100,AG,Honey,Argentina,,,77 FR 77029,12/31/2012,,,,0
+2001/9/11,2007/11/20,C-404,C-357-815,C,93,ISM,Hot-rolled carbon steel flat products,Argentina,,,72 FR 62436, 11/5/2007,,,,0
+2018/1/4,,C-571,C-357-821,C,241,CH,Biodiesel,Argentina,,,83 FR 522,  1/4/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-04/pdf/2017-28480.pdf,,,1
+2002/2/13,2006/7/7,C-412,C-412-821,C,,MM,Low-enriched uranium,United Kingdom,,,,,,,,0
+2002/2/13,2006/7/7,C-411,C-421-809,C,,MM,Low-enriched uranium,Netherlands,,,,,,,,0
+1999/5/11,2011/5/5,C-376,C-423-809,C,18,ISM,Stainless steel plate in coils,Belgium,,,76 FR 25666,  5/5/2011,,,,0
+2002/2/13,2007/5/25,C-409,C-427-819,C,102,MM,Low enriched uranium,France,,,,,,,,0
+2002/2/13,2006/7/7,C-410,C-428-829,C,,MM,Low-enriched uranium,Germany,,,,,,,,0
+2002/11/8,2008/11/8,C-426,C-437-805,C,111,CH,Sulfanilic acid,Hungary,,,73 FR 7527,  2/8/2008,,,,0
+2018/8/1,,C-582,C-469-818,C,273,AG,Ripe Olives,Spain,,,83 FR 37469,  8/1/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-01/pdf/2018-16449.pdf,,,1
+1994/6/7,2006/3/28,C-355,C-475-812,C,,ISM,Grain-oriented electrical steel,Italy,,,,,,,,0
+1995/8/10,2006/12/26,C-364,C-475-817,C,91,ISP,Oil country tubular goods,Italy,,,,,,,,0
+1996/7/24,2019/4/17,C-365,C-475-819,C,97,AG,Pasta,Italy,,,84 FR 16002, 4/17/2019,https://www.govinfo.gov/content/pkg/FR-2019-04-17/pdf/2019-07807.pdf,,,1
+1999/5/11,2006/3/28,C-377,C-475-823,C,,ISM,Stainless steel plate in coils,Italy,,,,,,,,0
+1999/8/6,2006/3/28,C-381,C-475-825,C,,ISM,Stainless steel sheet & strip in coils,Italy,,,,,,,,0
+2000/2/10,2012/1/4,C-390,C-475-827,C,40,ISM,Carbon steel plate,Italy,,,77 FR 263,  1/4/2012,,,,0
+2016/7/25,,C-535,C-475-833,C,215,ISM,Corrosion-Resistant Steel Products,India,,,81 FR 48387, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17563.pdf,,,1
+2018/5/21,,C-573,C-475-837,C,243,ISM,Carbon and Alloy Steel Wire Rod ,Italy,,,83 FR 23420, 5/21/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-05-21/pdf/2018-10880.pdf,,,1
+1996/7/24,2019/4/17,C-366,C-489-806,C,97,AG,Pasta,Turkey,,,84 FR 16002, 4/17/2019,https://www.govinfo.gov/content/pkg/FR-2019-04-17/pdf/2019-07807.pdf,,,1
+2014/9/10,,C-500,C-489-817,C,199,ISP,Oil Country Tubular Goods,Turkey,,,85 FR 48665, 8/12/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-12/pdf/2020-17632.pdf,,,1
+2014/11/6,,C-502,C-489-819,C,200,ISM,Steel Concrete Reinforcing Bar,Turkey,,,79 FR 68926, 11/6/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-11-06/pdf/2014-26414.pdf,,,1
+2015/12/1,,C-525,C-489-823,C,209,ISP,Welded Line Pipe,Turkey,,,80 FR 75054, 12/1/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-12-01/pdf/2015-30503.pdf,,,1
+2016/9/13,,C-539,C-489-825,C,217,ISP,Heavy Walled Rectangular Welded Carbon Steel Pipes and Tubes,Turkey,,,81 FR 62874, 9/13/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-13/pdf/2016-22000.pdf,,,1
+2017/7/14,,C-564,C-489-830,C,234,ISM,Steel Concrete Reinforcing Bar,Turkey,,,82 FR 32531, 7/14/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-07-14/pdf/2017-14803.pdf,,,1
+2018/5/21,,C-574,C-489-832,C,243,ISM,Carbon and Alloy Steel Wire Rod ,Turkey,,,83 FR 23420, 5/21/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-05-21/pdf/2018-10880.pdf,,,1
+2019/4/23,,C-596,C-489-834,C,249,ISP,Large Diameter Welded Pipe,Turkey,,,84 FR 18771, 4/23/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-02/pdf/2019-08952.pdf,,,1
+2020/6/15,,C-624,C-489-838,C,280,PRSG,Quartz Surface Products,India,,,85 FR 37431, 6/22/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-22/pdf/2020-13374.pdf,,,1
+2014/12/3,,C-506,C-507-997,C,202,ISM,Non-Oriented Electrical Steel,China,,,79 FR 71749, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28507.pdf,,,1
+2010/5/4,2016/5/6,C-462,C-522-805,C,169,PRSG,Polyethylene Retail Carrier Bags,Vietnam,,,81 FR 27087,  5/5/2016,https://www.govinfo.gov/content/pkg/FR-2016-05-05/pdf/2016-10625.pdf,,,1
+2018/10/5,,C-586,C-53-878,C,250,ISO,Stainless Steel Flanges,India,,,83 FR 50336, 10/5/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-10-05/pdf/2018-21732.pdf,,,1
+2000/2/10,2018/3/12,C-388,C-533-818,C,40,ISM,Carbon steel plate,India,,,83 FR 10672, 3/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-12/pdf/2018-04846.pdf,,,1
+2001/12/3,2014/2/7,C-405,C-533-821,C,93,ISM,Hot-rolled carbon steel flat products,India,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2002/7/1,2014/8/6,C-415,C-533-825,C,108,CH,Polyethylene terephthalate (PET) film,India,,,79 FR 45762,  8/6/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-08-06/pdf/2014-18599.pdf,,,1
+2004/2/4,2015/4/23,C-432,C-533-829,C,125,ISO,Prestressed concrete steel wire strand,India,,,80 FR 22708, 4/23/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-04-23/pdf/2015-09528.pdf,,,1
+2004/12/29,2015/11/17,C-437,C-533-839,C,131,CH,Carbazole Violet Pigment 23,India,,,80 FR 71773,11/17/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-11-17/pdf/2015-29361.pdf,,,1
+2006/9/28,2018/3/6,C-442,C-533-844,C,141,AG,Lined paper,India ,,,83 FR 9479,  3/6/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-06/pdf/2018-04501.pdf,,,1
+2009/12/11,2015/4/30,C-459,C-533-849,C,167,CH,Commodity Matchbooks,India,,,84 FR 24232, 4/30/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-04-30/pdf/2015-10133.pdf,,,1
+2014/9/10,,C-499,C-533-858,C,199,ISP,Oil Country Tubular Goods,India,,,85 FR 48665, 8/12/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-12/pdf/2020-17632.pdf,,,1
+2016/5/6,,C-532,C-533-862,C,213,PRSG,Polyethylene Terephthalate Resin,India,,,81 FR 27978,  5/6/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-05-06/pdf/2016-10761.pdf,,,1
+2016/7/25,,C-537,C-533-864,C,215,ISM,Corrosion-Resistant Steel Products,Korea,,,81 FR 48387, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17563.pdf,,,1
+2016/9/20,,C-542,C-533-866,C,218,ISM,Cold-Rolled Steel Flat Products,India,,,81 FR 64436, 9/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-20/pdf/2016-22614.pdf,,,1
+2016/11/17,,C-548,C-533-868,C,220,ISP,Welded Stainless Pressure Pipe,India,,,81 FR 81602,11/17/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-11-17/pdf/2016-27846.pdf,,,1
+2017/3/6,,C-552,C-533-870,C,225,PSRG,New Pneumatic Off-the-Road Tires,India,,,82 FR 12556,  3/6/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-06/pdf/2017-04433.pdf,,,1
+2017/8/24,,C-563,C-533-872,C,236,ISO,Finished Carbon Steel Flanges,India,,,82 FR 40138, 8/24/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-08-24/pdf/2017-18057.pdf,,,1
+2018/2/1,,C-577,C-533-874,C,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,India,,,83 FR 4637,  2/1/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-02-01/pdf/2018-02045.pdf,,,1
+2019/2/28,,C-594,C-533-882,C,249,ISP,Large Diameter Welded Pipe,India,,,84 FR 8085, 2/28/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-06/pdf/2019-04047.pdf,,,1
+2019/6/18,,C-604,C-533-884,C,256,CH,Glycine,India ,,,84 FR 29173, 6/18/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-21/pdf/2019-13361.pdf,,,1
+2020/1/6,,C-613,C-533-886,C,272,TX,Polyester Textured Yarn,India ,,,85 FR 1301,  1/6/2020,https://www.govinfo.gov/content/pkg/FR-2020-01-10/pdf/2020-00245.pdf,,,1
+2020/4/3,,C-619,C-533-888,C,274,ISO,Carbon and Alloy Steel Threaded Rod,India,,,85 FR 19927,  4/9/2020,https://www.govinfo.gov/content/pkg/FR-2020-04-09/pdf/2020-07483.pdf,,,1
+2020/6/15,,C-625,C-533-890,C,280,PRSG,Quartz Surface Products,Turkey,,,85 FR 37431, 6/22/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-22/pdf/2020-13374.pdf,,,1
+2017/3/6,2018/7/21,C-553,C-542-801,C,225,PSRG,New Pneumatic Off-the-Road Tires,Sri Lanka,,,83 FR 35213, 7/25/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-07-25/pdf/2018-15879.pdf,,,0
+2001/12/3,2014/2/7,C-408,C-549-818,C,93,ISM,Hot-rolled carbon steel flat products,Thailand,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2015/7/14,,C-519,C-552-819,C,206,ISO,Steel Nails,Vietnam,,,80 FR 41006, 7/14/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-07-14/pdf/2015-17363.pdf,,,1
+2019/5/28,,C-601,C-552-824,C,276,TX,Laminated Woven Sacks,Vietnam,,,84 FR 25753, 5/28/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-04/pdf/2019-11579.pdf,,,1
+2020/8/20,,C-629,C-552-826,C,282,ME,Utility Scale Wind Towers,Vietnam,,,85 FR 52543, 8/26/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-26/pdf/2020-18793.pdf,,,1
+2000/2/10,2018/3/12,C-389,C-560-806,C,40,ISM,Carbon steel plate,Indonesia,,,83 FR 10672, 3/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-12/pdf/2018-04846.pdf,,,1
+2001/12/3,2014/2/7,C-406,C-560-813,C,93,ISM,Hot-rolled carbon steel flat products,Indonesia,,,79 FR 7425,  2/4/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-02-07/pdf/2014-02696.pdf,,,1
+2006/9/28,2011/9/28,C-443,C-560-819,C,141,MSC,Certain lined paper,Indonesia,,,77 FR 53174, 8/31/2012,,,,0
+2010/11/17,2017/1/9,C-471,C-560-824,C,179,AG,Coated Paper Suitable for High-Quality Print Graphics Using Sheet-Fed Presses,Indonesia,,,82 FR 1692,  1/6/2017,https://www.govinfo.gov/content/pkg/FR-2017-01-06/pdf/2017-00029.pdf,,,1
+2016/3/3,,C-529,C-560-829,C,212,AG,Uncoated Paper,Indonesia,,,81 FR 11187,  3/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-03/pdf/2016-04717.pdf,,,1
+2018/1/4,,C-572,C-560-831,C,241,CH,Biodiesel,Indonesia,,,83 FR 522,  1/4/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-04/pdf/2017-28480.pdf,,,1
+2020/8/20,,C-628,C-560-834,C,282,ME,Utility Scale Wind Towers,Indonesia,,,85 FR 52543, 8/26/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-26/pdf/2020-18793.pdf,,,1
+2015/1/30,,C-510,C-570-009,C,204,CH,Calcium Hypochlorite,China,,,85 FR 39522,  7/1/2020,https://www.govinfo.gov/content/pkg/FR-2020-07-01/pdf/2020-14194.pdf,,,1
+2015/2/18,,C-511,C-570-011,C,205,ME,Crystalline Silicon Photovoltaic Products,China,,,85 FR 56215, 9/11/2020,http://www.gpo.gov/fdsys/pkg/FR-2015-02-18/pdf/2015-03183.pdf,,,1
+2015/1/8,,C-512,C-570-013,C,203,ISM,Carbon and Certain Alloy Steel Wire,China,,,80 FR 1018,  1/8/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-01-08/pdf/2015-00095.pdf,,,1
+2015/8/10,,C-522,C-570-017,C,207,PRSG,Passenger Vehicle and Light Truck Tires,China,,,80 FR 47902, 8/10/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-08-10/pdf/2015-19615.pdf,,,1
+2015/10/21,,C-523,C-570-019,C,208,MSC,Boltless Steel Shelving Units Prepackaged for Sale,China,,,80 FR 63745,10/21/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-10-21/pdf/2015-26764.pdf,,,1
+2015/12/28,,C-526,C-570-021,C,210,CH,Melamine,China,,,80 FR 80751,12/28/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-12-28/pdf/2015-32632.pdf,,,1
+2016/3/3,,C-528,C-570-023,C,212,AG,Uncoated Paper,China,,,81 FR 11187,  3/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-03/pdf/2016-04717.pdf,,,1
+2016/5/6,,C-531,C-570-025,C,213,PRSG,Polyethylene Terephthalate Resin,China,,,81 FR 27978,  5/6/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-05-06/pdf/2016-10761.pdf,,,1
+2016/7/25,,C-536,C-570-027,C,215,ISM,Corrosion-Resistant Steel Products,Italy,,,81 FR 48387, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17563.pdf,,,1
+2016/7/14,,C-541,C-570-030,C,214,ISM,Cold-Rolled Steel Flat Products,China,,,81 FR 45960, 7/14/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-14/pdf/2016-16794.pdf,,,1
+2017/3/3,,C-554,C-570-037,C,224,CH,Biaxial Integral Geogrid Products,China,,,82 FR 12437,  3/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-03/pdf/2017-04132.pdf,,,1
+2017/3/17,,C-555,C-570-039,C,227,PRSGC,Amorphous Silica Fabric,China,,,82 FR 14316, 3/17/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-17/pdf/2017-05432.pdf,,,1
+2019/2/12,,C-556,C-570-041,C,258,PRSG,Truck and Bus Tires,China,,,84 FR 4434, 2/15/2019,https://www.govinfo.gov/content/pkg/FR-2019-02-15/pdf/2019-02657.pdf,,,1
+2017/4/3,,C-557,C-570-043,C,228,ISM,Stainless Steel Sheet and Strip,China,,,82 FR 16166,  4/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-04-03/pdf/2017-06489.pdf,,,1
+2017/5/18,,C-558,C-570-046,C,232,CH,"1-Hydroxyethylidene-1, 1-Diphosphonic Acid (HEDP)",China,,,82 FR 22809, 5/18/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-18/pdf/2017-10079.pdf,,,1
+2017/3/20,,C-560,C-570-048,C,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate,China,,,82 FR 14346, 3/20/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-03-20/pdf/2017-05441.pdf,,,1
+2017/3/9,,C-562,C-570-050,C,226,CH,Ammonium Sulfate,China,,,82 FR 13094,  3/9/2017,https://www.govinfo.gov/content/pkg/FR-2017-03-09/pdf/2017-04753.pdf,,,1
+2018/1/4,,C-565,C-570-052,C,242,AG,Hardwood Plywood Products,China,,,83 FR 513,  1/4/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-04/pdf/2017-28481.pdf,,,1
+2018/4/19,,C-570,C-570-054,C,245,MM,Aluminum Foil,China,,,83 FR 17360, 4/19/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-04-19/pdf/2018-08116.pdf,,,1
+2018/1/24,,C-575,C-570-057,C,249,MSC,Tool Chests and Cabinets,China,,,83 FR 3299, 1/24/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-24/pdf/2018-01351.pdf,,,1
+2018/2/1,,C-576,C-570-059,C,251,ISP,Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel,China,,,83 FR 4637,  2/1/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-02-01/pdf/2018-02045.pdf,,,1
+2018/3/16,,C-579,C-570-061,C,244,TX,Fine Denier Polyester Staple Fiber,China,,,83 FR 11681, 3/16/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-16/pdf/2018-05371.pdf,,,1
+2018/8/31,,C-583,C-570-063,C,252,ISO,Cast Iron Soil Pipe Fittings,China,,,83 FR 44566, 8/31/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-31/pdf/2018-19095.pdf,,,1
+2018/6/5,,C-585,C-570-065,C,250,ISO,Stainless Steel Flanges,China,,,83 FR 26006,  6/5/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-06-05/pdf/2018-11908.pdf,,,1
+2018/11/26,,C-589,C-570-068,C,253,ISO,Forged Steel Fittings,China,,,83 FR 60396,11/26/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-11-26/pdf/2018-25704.pdf,,,1
+2019/2/13,,C-598,C-570-070,C,264,PRSG,Rubber Bands,China,,,84 FR 4774, 2/19/2019,https://www.govinfo.gov/content/pkg/FR-2019-02-19/pdf/2019-02783.pdf,,,1
+2018/11/13,,C-590,C-570-072,C,255,CH,Sodium Gluconate,China,,,83 FR 56299,11/13/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-11-13/pdf/2018-24705.pdf,,,1
+2019/1/31,,C-591,C-570-074,C,277,MM,Common Alloy Aluminum Sheet,China,,,84 FR 2157,  2/6/2019,https://www.govinfo.gov/content/pkg/FR-2019-02-06/pdf/2019-01273.pdf,,,1
+2019/3/19,,C-592,C-570-076,C,250,PRSG,Plastic Decorative Ribbon,China,,,84 FR 10786, 3/22/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-22/pdf/2019-05520.pdf,,,1
+2019/2/28,,C-593,C-570-078,C,249,ISP,Large Diameter Welded Pipe,China,,,84 FR 8075,  3/6/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-06/pdf/2019-04049.pdf,,,1
+2019/4/26,,C-597,C-570-080,C,259,ISP,Cast Iron Soil Pipe,China,,,84 FR 19039,  5/3/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-03/pdf/2019-09067.pdf,,,1
+2019/6/18,,C-603,C-570-081,C,256,CH,Glycine,China ,,,84 FR 29173, 6/21/2019,https://www.govinfo.gov/content/pkg/FR-2019-06-21/pdf/2019-13361.pdf,,,1
+2019/5/21,,C-602,C-570-083,C,254,TR,Steel Wheels,China,,,84 FR 24098, 5/24/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-24/pdf/2019-11015.pdf,,,1
+2019/7/8,,C-606,C-570-085,C,257,PRSGC,Quartz ,China,,,84 FR 33053 ,8-Jul-19,https://www.govinfo.gov/content/pkg/FR-2019-07-11/pdf/2019-14865.pdf,,,1
+2019/8/7,,C-607,C-570-087,C,260,ISO,Steel Propane Cylinders,China,,,84 FR 41700 ,15-Aug-19,https://www.govinfo.gov/content/pkg/FR-2019-08-15/pdf/2019-17313.pdf,,,1
+2019/8/23,,C-609,C-570-091,C,262,TR,Steel Trailer Wheels,China,,,84 FR 45952,  9/3/2019,https://www.govinfo.gov/content/pkg/FR-2019-09-03/pdf/2019-18937.pdf,,,1
+2019/12/11,,C-610,C-570-094,C,268,ISO,Refillable Stainless Steel Kegs,China,,,84 FR 68400,12/16/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-16/pdf/2019-27129.pdf,,,1
+2019/12/17,,C-611,C-570-096,C,271,MM,Aluminum Wire and Cable ,China,,,84 FR 70496 ,23-Dec-19,https://www.govinfo.gov/content/pkg/FR-2019-12-23/pdf/2019-27641.pdf,,,1
+2020/4/3,,C-618,C-570-105,C,274,ISO,Carbon and Alloy Steel Threaded Rod,China,,,85 FR 19927,  4/9/2020,https://www.govinfo.gov/content/pkg/FR-2020-04-09/pdf/2020-07483.pdf,,,1
+2020/4/13,,C-620,C-570-107,C,278,MSC,Wooden Cabinets and Vanities,China,,,85 FR 22134, 4/21/2020,https://www.govinfo.gov/content/pkg/FR-2020-04-21/pdf/2020-08546.pdf,,,1
+2020/5/26,,C-621,C-570-109,C,279,MSC,Ceramic Tile,China,,,85 FR 33119,  6/1/2020,https://www.govinfo.gov/content/pkg/FR-2020-06-01/pdf/2020-11722.pdf,,,1
+2019/12/5,,C-623,C-570-111,C,267,MSC,Vertical Metal File Cabinets,China,,,84 FR 68121,13-Dec-19,https://www.govinfo.gov/content/pkg/FR-2019-12-13/pdf/2019-27028.pdf,,,1
+2020/7/14,,C-626,C-570-113,C,281,MSC,Certain Collated Steel Staples,China,,,85 FR 43813, 7/20/2020,https://www.govinfo.gov/content/pkg/FR-2020-07-20/pdf/2020-15623.pdf,,,1
+2008/9/4,2019/2/4,C-448,C-570-913,C,151,PRSG,New Pneumatic Off-the-Road Tires,China,,,84 FR 20616, 5/10/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-10/pdf/2019-09670.pdf,,,0
+2008/8/5,2014/6/23,C-449,C-570-915,C,146,ISP,Light-walled rectangular pipe and tube,China,,,85 FR 47169,  8/4/2020,https://www.govinfo.gov/content/pkg/FR-2020-08-04/pdf/2020-16871.pdf,,,1
+2008/8/7,2014/3/26,C-450,C-570-917,C,149,TX,Laminated woven sacks,China,,,84 FR 45128, 8/28/2019,https://www.govinfo.gov/content/pkg/FR-2019-08-28/pdf/2019-18598.pdf,,,1
+2008/11/24,2015/1/30,C-451,C-570-921,C,156,AG,Lightweight thermal paper,China,,,85 FR 40249,  7/6/2020,https://www.govinfo.gov/content/pkg/FR-2020-07-06/pdf/2020-14437.pdf,,,1
+2008/9/17,2019/7/23,C-452,C-570-923,C,152,ME,Raw flexible magnets,China,,,79 FR 6886, 7/23/2019,https://www.govinfo.gov/content/pkg/FR-2019-07-23/pdf/2019-15618.pdf,,,1
+2009/3/19,2014/8/2,C-454,C-570-931,C,160,ISP,Circular welded austenitic stainless pressure pipe,China,,,84 FR 66883, 12/2/2019,https://www.govinfo.gov/content/pkg/FR-2019-12-06/pdf/2019-26359.pdf,,,1
+2009/1/23,2014/5/20,C-455,C-570-936,C,158,ISP,Circular welded carbon quality steel line pipe,China,,,84 FR 52456, 9/25/2019,http://www.gpo.gov/fdsys/pkg/FR-2014-05-20/pdf/2014-11682.pdf,,,1
+2009/5/29,2015/6/24,C-456,C-570-938,C,164,CH,Citric acid and certain citrate,China,,,80 FR 36318, 6/24/2015,https://www.govinfo.gov/content/pkg/FR-2015-06-24/pdf/2015-15399.pdf,,,1
+2009/8/3,2014/9/23,C-457,C-570-940,C,165,MSC,Tow Behind Lawn Groomer,China,,,79 FR 56769, 9/23/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-09-23/pdf/2014-22631.pdf,,,0
+2009/9/14,2020/10/15,C-458,C-570-942,C,166,ME,Kitchen Appliance Shelving and Racks,China,,,85 FR 65345,10/15/2020,https://www.govinfo.gov/content/pkg/FR-2020-10-15/pdf/2020-22807.pdf,,,1
+2010/1/20,2015/5/18,C-463,C-570-944,C,168,ISP,Oil Country Tubular Goods,China,,,80 FR 28224, 5/18/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-05-18/pdf/2015-11981.pdf,,,1
+2010/7/7,2015/10/13,C-464,C-570-946,C,171,ISO,Prestressed Concrete Steel Wire Strand,China,,,80 FR 61372,10/13/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-10-13/pdf/2015-25978.pdf,,,1
+2010/7/23,2015/11/12,C-465,C-570-948,C,173,ISO,Steel Grating,China,,,80 FR 69940,11/12/2015,http://www.gpo.gov/fdsys/pkg/FR-2015-11-12/pdf/2015-28755.pdf,,,1
+2010/9/1,2016/9/22,C-467,C-570-953,C,175,TX,Narrow Woven Ribbons With Woven Selvedge,China,,,81 FR 65341, 9/22/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-22/pdf/2016-22888.pdf,,,1
+2010/9/21,2016/2/12,C-468,C-570-955,C,176,PRSGC,Magnesia Carbon Bricks,China,,,81 FR 7502, 2/12/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-02-12/pdf/2016-02994.pdf,,,1
+2010/11/10,2016/3/16,C-469,C-570-957,C,178,ISP,"Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe",China,,,81 FR 14089, 3/16/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-03-16/pdf/2016-05941.pdf,,,1
+2010/11/17,2017/1/8,C-470,C-570-959,C,179,AG,Coated Paper Suitable for High-Quality Print Graphics Using Sheet-Fed Presses,China,,,82 FR 1692,  1/6/2017,https://www.govinfo.gov/content/pkg/FR-2017-01-06/pdf/2017-00029.pdf,,,1
+2010/7/22,2015/12/21,C-473,C-570-963,C,172,CH,Potassium Phosphate Salts,China,,,80 FR 79305,10/21/2015,https://www.gpo.gov/fdsys/pkg/FR-2015-12-21/pdf/2015-32020.pdf,,,1
+2011/3/3,2014/11/20,C-474,C-570-966,C,181,ISP,Drill Pipe and Drill Collars,China,,,79 FR 78037,12/29/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-29/pdf/2014-30384.pdf,,,0
+2011/5/26,2017/4/25,C-475,C-570-968,C,183,MM,Aluminum Extrusions,China,,,82 FR 19025, 4/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-04-25/pdf/2017-08352.pdf,,,1
+2011/12/8,2018/1/3,C-476,C-570-971,C,184,AG,Multilayered Wood Flooring,China,,,83 FR 344,  1/3/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-01-03/pdf/2017-28202.pdf,,,1
+2012/12/7,2019/3/20,C-481,C-570-980,C,189,ME,Crystalline Silicon Photovoltaic Cells,China,,,84 FR 10299, 3/20/2019,https://www.govinfo.gov/content/pkg/FR-2019-03-20/pdf/2019-05274.pdf,,,1
+2013/2/15,2019/5/17,C-486,C-570-982,C,192,ISO,Utility Scale Wind Towers,China,,,84 FR 22442, 5/17/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-17/pdf/2019-10270.pdf,,,1
+2013/4/11,2018/8/28,C-489,C-570-984,C,194,ISO,Drawn Stainless Steel Sinks,China,,,83 FR 43847, 8/28/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-08-28/pdf/2018-18612.pdf,,,1
+2014/11/13,,C-501,C-570-991,C,201,CH,Chlorinated Isocyanurates,China,,,85 FR 27207,  5/7/2020,https://www.govinfo.gov/content/pkg/FR-2020-05-07/pdf/2020-09762.pdf,,,1
+1999/8/6,2017/10/3,C-382,C-580-835,C,25,ISM,Stainless steel sheet & strip,Korea,,,82 FR 46036, 10/3/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-10-03/pdf/2017-21210.pdf,,,1
+2000/2/10,2018/3/12,C-391,C-580-837,C,40,ISM,Carbon steel plate,Korea,,,83 FR 10672, 3/12/2018,https://www.gpo.gov/fdsys/pkg/FR-2018-03-12/pdf/2018-04846.pdf,,,1
+2000/8/14,2006/3/28,C-401,C-580-842,C,,ISO,Structural steel beams,Korea,,,,,,,,0
+2003/8/11,2008/8/11,C-431,C-580-851,C,118,ELC,Dynamic random access memory semiconductors,Korea,,,,,,,,0
+2013/2/15,2018/2/15,C-488,C-580-869,C,193,MSC,Large Residential Washers,Korea,,,84 FR 19763,  5/6/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-06/pdf/2019-09213.pdf,,,0
+2016/7/25,,C-534,C-580-879,C,215,ISM,Corrosion-Resistant Steel Products,China,,,81 FR 48387, 7/25/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-17563.pdf,,,1
+2016/9/20,,C-543,C-580-882,C,218,ISM,Cold-Rolled Steel Flat Products,Korea,,,81 FR 64436, 9/20/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-09-20/pdf/2016-22614.pdf,,,1
+2016/10/3,,C-546,C-580-884,C,219,ISM,Hot-rolled carbon steel flat products,Korea,,,81 FR 67960, 10/3/2016,https://www.gpo.gov/fdsys/pkg/FR-2016-10-03/pdf/2016-23835.pdf,,,1
+2017/5/25,,C-561,C-580-888,C,222,ISM,Carbon and Alloy Steel Cut-to-Length Plate ,Korea,,,82 FR 24103, 5/25/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-05-25/pdf/2017-10756.pdf,,,1
+2019/4/23,,C-595,C-580-898,C,249,ISP,Large Diameter Welded Pipe,Korea,,,84 FR 18773, 4/23/2019,https://www.govinfo.gov/content/pkg/FR-2019-05-02/pdf/2019-08951.pdf,,,1
+2014/12/3,,C-508,C-583-852,C,202,ISM,Non-Oriented Electrical Steel,Taiwan,,,79 FR 71749, 12/3/2014,http://www.gpo.gov/fdsys/pkg/FR-2014-12-03/pdf/2014-28507.pdf,,,1
+1999/5/11,2017/1/9,C-379,C-791-806,C,18,ISM,Stainless steel plate in coils,South Africa,,,82 FR 2322,  1/9/2017,https://www.gpo.gov/fdsys/pkg/FR-2017-01-09/pdf/2017-00140.pdf,,,1
+2001/12/3,2007/11/20,C-407,C-791-810,C,93,ISM,Hot-rolled carbon steel flat products,South Africa,,,,,,,,0
