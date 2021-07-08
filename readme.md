@@ -1,5 +1,9 @@
+## version
+Python 3.7.8
+Scrapy 2.5
 
-## 1. run
+
+## run
 ```shell
 scrapy crawl notice_search
 ```
