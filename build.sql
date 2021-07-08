@@ -35,6 +35,8 @@ CREATE TABLE `notice` (
     `source` varchar(500) DEFAULT NULL COMMENT 'notice_url',
     `fed_reg` varchar(50) DEFAULT NULL COMMENT '',
     `Notes` varchar(50) DEFAULT NULL COMMENT '',
+    `have_table` int,
+    have_final_result_chapter int,
     `Petitioner_and_AltNm_list` varchar(500) DEFAULT NULL COMMENT '',
     `HS_list` varchar(1000) DEFAULT NULL COMMENT '',
     PRIMARY KEY (`CaseID`)

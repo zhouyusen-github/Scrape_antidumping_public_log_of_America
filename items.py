@@ -31,6 +31,8 @@ class NoticeItem(scrapy.Item):
     source = scrapy.Field()
     fed_reg = scrapy.Field()
     Notes = scrapy.Field()
+    have_table = scrapy.Field()
+    have_final_result_chapter = scrapy.Field()
     Petitioner_and_AltNm_list = scrapy.Field()
     HS_list = scrapy.Field()
 

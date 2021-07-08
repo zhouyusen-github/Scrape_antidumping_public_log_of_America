@@ -86,10 +86,11 @@ def get_Petitioners(response_html):  # 投诉有倾销现象的人
 # 以外情况，可能有多个
 def get_docket_number(html_tree):
     order = meta_list_get("Agency/Docket Number:", html_tree)
-    docket_number = html_tree.xpath("//dl[@class='metadata_list']/dd[" + str(order) + "]/text()")[0]
-    # <dt>Agency/Docket Number:</dt>
-    #           <dd>A-122-838</dd>
-    docket_number = "0"
+    docket_number_search = html_tree.xpath("//dl[@class='metadata_list']/dd[" + str(order) + "]/text()")
+    if len(docket_number_search) > 0:
+        docket_number = docket_number_search[0]
+    else:
+        docket_number = ""
     return docket_number
 
 # 2. year_month_date:
@@ -274,13 +275,15 @@ def field_set_to_NoticeItem(field_set):
     item['ProducerID'] = field_set['ProducerID']
     item['Action'] = field_set['Action']
     item['source_AD_CVD'] = field_set['source_AD_CVD']
-    # item['notice_AD_CVD'] = field_set['notice_AD_CVD']
+    item['notice_AD_CVD'] = field_set['notice_AD_CVD']
     item['Product'] = field_set['Product']
     item['source_Country'] = field_set['source_Country']
     item['notice_Country'] = field_set['notice_Country']
     item['source'] = field_set['source']
     item['fed_reg'] = field_set['fed_reg']
     item['Notes'] = field_set['Notes']
+    item['have_table'] = field_set['have_table']
+    item['have_final_result_chapter'] = field_set['have_final_result_chapter']
     item['Petitioner_and_AltNm_list'] = field_set['Petitioner_and_AltNm_list']
     item['HS_list'] = field_set['HS_list']
 
@@ -377,6 +380,7 @@ class NoticeSearchSpider(scrapy.Spider):
         print("进入search_notice")
         field_set = copy.deepcopy(response.meta['field_set'])
         AD_CVD = field_set['AD_CVD']
+        # Country = field_set['Country']
         response_html = response.body.decode()
         html_tree = etree.HTML(response_html)
         title_list = html_tree.xpath("//div[@class='document-wrapper']/h5/a/text()")  # 获取 贸易通告标题列表
@@ -468,19 +472,26 @@ class NoticeSearchSpider(scrapy.Spider):
             if word in country_dict:
                 notice_Country.append(word)
         field_set['notice_Country'] = ",".join(notice_Country)
-        field_set['CaseID'] = uuid.uuid1()
-        NoticeItem = field_set_to_NoticeItem(field_set)
-        yield NoticeItem
+
 
 
         ## 一个公司一条记录
         table_data_rows = get_company_and_subsidy_rate_in_table(html_tree)
-
+        field_set['have_final_result_chapter'] = 0
         if len(table_data_rows) == 0:  # 如果网页中根本没有表格
+            field_set['have_table'] = 0
             # f_no_table.write(field_set["source"] + "\n")
             # print("len(table_data_rows) == 0")
             # print(field_set["source"])
-            table_data_rows = get_company_and_subsidy_rate_in_final_result_chapter(response_html)
+            if len(get_final_result_chapter(response_html)) > 0:
+                table_data_rows = get_company_and_subsidy_rate_in_final_result_chapter(response_html)
+                field_set['have_final_result_chapter'] = 1
+        else:
+            field_set['have_table'] = 1
+
+        field_set['CaseID'] = uuid.uuid1()
+        NoticeItem_one = field_set_to_NoticeItem(field_set)
+        yield NoticeItem_one
 
         for table_data_row in table_data_rows:
             field_set = copy.deepcopy(field_set)
@@ -519,8 +530,8 @@ class NoticeSearchSpider(scrapy.Spider):
             #     print("data_line: "+data_line)
                 # output_CVD_file.write(data_line)
             field_set['RateID'] = uuid.uuid1()
-            RateItem = field_set_to_RateItem(field_set)
-            yield RateItem
+            RateItem_one = field_set_to_RateItem(field_set)
+            yield RateItem_one
             # print(data_line_list)
             data_line_list = []
 
