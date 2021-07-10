@@ -1,13 +1,21 @@
 ## Scrape public antidumping data of America
 Author: Yusen Zhou, Date：2021-07-07
 
-#### source data
+#### Source data
 From professor
+A list of docket number
+
+#### Target data
+All final determination of antidumping and countervailing rate about every docket number and the details should include the company which would be published.
 
 #### website situation
 1. search api: https://www.federalregister.gov/documents/search?conditions%5Bterm%5D={DOCNo}&page={page}
 2. notice url: https://www.federalregister.gov/documents/2001/11/01/01-27482/certain-pasta-from-italy-and-turkey-extension-of-final-results-of-antidumping-duty-administrative
 
+#### Logic
+1. Request search api to find the relative notice
+2. Request the url of notice of which title include specific words like "antidumping" and "countervailing"
+3. Extract data from the response of notice
 
 #### data introduction
 1. notice information with antidumping rate
